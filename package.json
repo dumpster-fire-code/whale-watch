@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "fetchAddresses": "ts-node --project=tsconfig.json src/bin/fetchAddresses.ts",
+    "fetchAccountDetails": "ts-node --project=tsconfig.json src/bin/fetchAccountDetails.ts",
+    "summarizeBalances": "ts-node --project=tsconfig.json src/bin/summarizeBalances.ts",
+    "saveSnapshot": "ts-node --project=tsconfig.json src/bin/saveSnapshot.ts",
+    "format": "prettier --write \"**/*.{ts,tsx,js,json}\"",
+    "lint": "yarn eslint src"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/chalk": "^2.2.0",
+    "@types/cheerio": "^0.22.31",
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^17.0.25",
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.13.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
