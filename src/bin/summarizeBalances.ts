@@ -1,8 +1,8 @@
 import { readFileSync, writeFileSync } from 'fs';
+import { logger } from 'utils/Logger';
 
-import { accountDetailsPath, balanceSummariesPath } from '../constants/env';
-import { Account, BalanceSummary } from '../types';
-import { logger } from '../utils/Logger';
+import { accountDetailsPath, balanceSummariesPath } from '~/constants/env';
+import { Account, BalanceSummary } from '~/types';
 
 const accounts: Account[] = JSON.parse(
   readFileSync(accountDetailsPath, 'utf8'),

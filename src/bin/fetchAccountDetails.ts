@@ -2,11 +2,11 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { readFileSync, writeFileSync } from 'fs';
 
-import { accountDetailsPath, addressesPath } from '../constants/env';
-import { Account } from '../types';
-import { logger } from '../utils/Logger';
-import { splitNameAndParenthetical, toNumber } from '../utils/ParseUtils';
-import { sleep } from '../utils/PromiseUtils';
+import { accountDetailsPath, addressesPath } from '~/constants/env';
+import { Account } from '~/types';
+import { logger } from '~/utils/Logger';
+import { splitNameAndParenthetical, toNumber } from '~/utils/ParseUtils';
+import { sleep } from '~/utils/PromiseUtils';
 
 const usdValueThreshold = 1000;
 const interRequestDelay = 500;

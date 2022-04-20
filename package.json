@@ -1,9 +1,11 @@
 {
   "scripts": {
-    "fetchAddresses": "ts-node --project=tsconfig.json src/bin/fetchAddresses.ts",
-    "fetchAccountDetails": "ts-node --project=tsconfig.json src/bin/fetchAccountDetails.ts",
-    "summarizeBalances": "ts-node --project=tsconfig.json src/bin/summarizeBalances.ts",
-    "saveSnapshot": "ts-node --project=tsconfig.json src/bin/saveSnapshot.ts",
+    "fetchAddresses": "ts-node -r tsconfig-paths/register  src/bin/fetchAddresses.ts",
+    "fetchAccountDetails": "ts-node -r tsconfig-paths/register  src/bin/fetchAccountDetails.ts",
+    "summarizeBalances": "ts-node -r tsconfig-paths/register src/bin/summarizeBalances.ts",
+    "saveSnapshot": "ts-node  src/bin/saveSnapshot.ts",
+    "compare": "ts-node -r tsconfig-paths/register src/bin/compare.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
     "format": "prettier --write \"**/*.{ts,tsx,js,json}\"",
     "lint": "yarn eslint src"
   },
@@ -19,6 +21,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "prettier": "^2.6.2",
+    "tsconfig-paths": "^3.14.1",
     "typescript": "^4.6.3"
   },
   "dependencies": {

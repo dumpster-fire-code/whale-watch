@@ -2,9 +2,9 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { writeFileSync } from 'fs';
 
-import { dataDir } from '../constants/env';
-import { logger } from '../utils/Logger';
-import { sleep } from '../utils/PromiseUtils';
+import { dataDir } from '~/constants/env';
+import { logger } from '~/utils/Logger';
+import { sleep } from '~/utils/PromiseUtils';
 
 const addressQuota = 2000;
 const interRequestDelay = 500;

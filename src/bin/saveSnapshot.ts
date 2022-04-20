@@ -4,14 +4,14 @@ import { join } from 'path';
 import {
   balanceSummariesFilename,
   balanceSummariesPath,
-} from '../constants/env';
+} from '~/constants/env';
 import {
   accountDetailsFilename,
   accountDetailsPath,
   addressesFilename,
   addressesPath,
   archivesDir,
-} from '../constants/env';
+} from '~/constants/env';
 
 const currentArchiveDir = join(archivesDir, Date.now().toString());
 
