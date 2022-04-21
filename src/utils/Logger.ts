@@ -1,12 +1,16 @@
 import chalk from 'chalk';
 
 class Logger {
+  log(data: unknown) {
+    console.log(data);
+  }
+
   info(data: unknown) {
     this.formatAndLog(chalk.cyan, data);
   }
 
-  log(data: unknown) {
-    this.formatAndLog(chalk.white, data);
+  success(data: unknown) {
+    this.formatAndLog(chalk.green, data);
   }
 
   error(data: unknown) {

@@ -1,9 +1,10 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 
 import { accountDetailsPath, addressesPath } from '~/constants/env';
 import { Account } from '~/types';
+import { readAndParse } from '~/utils/FileUtils';
 import { logger } from '~/utils/Logger';
 import { splitNameAndParenthetical, toNumber } from '~/utils/ParseUtils';
 import { sleep } from '~/utils/PromiseUtils';
@@ -11,10 +12,10 @@ import { sleep } from '~/utils/PromiseUtils';
 const usdValueThreshold = 1000;
 const interRequestDelay = 500;
 
-const addresses: string[] = JSON.parse(readFileSync(addressesPath, 'utf8'));
+const addresses: string[] = readAndParse(addressesPath);
 
 (async () => {
-  const accounts: Account[] = [];
+  const accounts: Record<string, Account> = {};
 
   for (const address of addresses) {
     logger.info(`Fetching account details for ${address}`);
@@ -42,7 +43,7 @@ const addresses: string[] = JSON.parse(readFileSync(addressesPath, 'utf8'));
       address,
       eth,
       ethUsdValue,
-      tokens: [],
+      tokens: {},
     };
 
     $('#availableBalanceClick li').each((_, el) => {
@@ -62,14 +63,14 @@ const addresses: string[] = JSON.parse(readFileSync(addressesPath, 'utf8'));
       let symbol: string;
 
       if ($name.find('span').length === 2) {
-        name = $name.find('span:first-of-type').attr('title');
-        symbol = $name.find('span:last-of-type').attr('title');
+        name = $name.find('span:first-of-type').attr('title')!;
+        symbol = $name.find('span:last-of-type').attr('title')!;
       } else if ($name.find('span').length == 1) {
         if ($name.find('span').text().includes('(')) {
           [name] = splitNameAndParenthetical($name.text());
-          symbol = $name.find('span').attr('title');
+          symbol = $name.find('span').attr('title')!;
         } else {
-          name = $name.find('span').attr('title');
+          name = $name.find('span').attr('title')!;
           [, symbol] = splitNameAndParenthetical($name.text());
         }
       } else {
@@ -80,15 +81,14 @@ const addresses: string[] = JSON.parse(readFileSync(addressesPath, 'utf8'));
       const usdValue = toNumber($li.find('.list-usd-value').text());
 
       if (usdValue && usdValue >= usdValueThreshold) {
-        account.tokens.push({ name, symbol, amount, usdValue });
+        account.tokens[symbol] = { name, symbol, amount, usdValue };
       }
     });
 
-    account.tokens.sort((a, b) => b.usdValue - a.usdValue);
-
-    accounts.push(account);
+    accounts[account.address] = account;
     await sleep(interRequestDelay);
   }
 
   writeFileSync(accountDetailsPath, JSON.stringify(accounts, null, 2));
+  logger.success(`Saved account details to ${accountDetailsPath}`);
 })();

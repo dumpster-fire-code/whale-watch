@@ -1,17 +1,16 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import { logger } from 'utils/Logger';
 
 import { accountDetailsPath, balanceSummariesPath } from '~/constants/env';
 import { Account, BalanceSummary } from '~/types';
+import { readAndParse } from '~/utils/FileUtils';
 
-const accounts: Account[] = JSON.parse(
-  readFileSync(accountDetailsPath, 'utf8'),
-);
+const accounts: Record<string, Account> = readAndParse(accountDetailsPath);
 
 const summaries: Record<string, BalanceSummary | undefined> = {};
 
-accounts.forEach(({ tokens }) => {
-  tokens.forEach(({ name, symbol, amount, usdValue }) => {
+Object.values(accounts).forEach(({ tokens }) => {
+  Object.values(tokens).forEach(({ name, symbol, amount, usdValue }) => {
     if (summaries[symbol] === undefined) {
       summaries[symbol] = {
         name,
@@ -22,29 +21,12 @@ accounts.forEach(({ tokens }) => {
       };
     }
 
-    const summary = summaries[symbol];
+    const summary = summaries[symbol]!;
     summary.amount += amount;
     summary.usdValue += usdValue;
     summary.numHolders++;
   });
 });
 
-const sortedSummaries = Object.values(summaries).sort(
-  (a, b) => b.usdValue - a.usdValue,
-);
-
-sortedSummaries.forEach((summary) => {
-  logger.log(
-    [
-      `### ${summary.name} (${summary.symbol})`,
-      `- **Holders:** ${summary.numHolders}`,
-      `- **Amount:** ${summary.amount.toLocaleString()}`,
-      `- **USD value:** ${summary.usdValue.toLocaleString(undefined, {
-        style: 'currency',
-        currency: 'USD',
-      })}`,
-    ].join('\n') + '\n',
-  );
-});
-
-writeFileSync(balanceSummariesPath, JSON.stringify(sortedSummaries, null, 2));
+writeFileSync(balanceSummariesPath, JSON.stringify(summaries, null, 2));
+logger.success(`Saved balance summaries to ${balanceSummariesPath}`);

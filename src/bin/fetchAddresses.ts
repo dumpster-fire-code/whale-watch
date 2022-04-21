@@ -2,7 +2,7 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { writeFileSync } from 'fs';
 
-import { dataDir } from '~/constants/env';
+import { addressesPath } from '~/constants/env';
 import { logger } from '~/utils/Logger';
 import { sleep } from '~/utils/PromiseUtils';
 
@@ -35,13 +35,11 @@ const fetchAddresses = async (page: number = 1) => {
       await sleep(interRequestDelay);
       fetchAddresses(page + 1);
     } else {
-      writeFileSync(
-        `${dataDir}/addresses.json`,
-        JSON.stringify(addresses, null, 2),
-      );
+      writeFileSync(addressesPath, JSON.stringify(addresses, null, 2));
+      logger.success(`Saved addresses to ${addressesPath}`);
     }
   } catch (error) {
-    logger.error(error.message);
+    logger.error((error as Error).message);
     process.exit(1);
   }
 };

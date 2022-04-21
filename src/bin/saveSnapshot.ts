@@ -12,25 +12,38 @@ import {
   addressesPath,
   archivesDir,
 } from '~/constants/env';
+import { logger } from '~/utils/Logger';
 
 const currentArchiveDir = join(archivesDir, Date.now().toString());
 
 mkdirSync(currentArchiveDir);
 
-copyFileSync(
-  addressesPath,
-  join(currentArchiveDir, addressesFilename),
-  constants.COPYFILE_EXCL,
-);
+const addressesSnapshotPath = join(currentArchiveDir, addressesFilename);
+copyFileSync(addressesPath, addressesSnapshotPath, constants.COPYFILE_EXCL);
+logger.success(`Saved addresses snapshot to ${addressesSnapshotPath}`);
 
+const accountDetailsSnapshotPath = join(
+  currentArchiveDir,
+  accountDetailsFilename,
+);
 copyFileSync(
   accountDetailsPath,
-  join(currentArchiveDir, accountDetailsFilename),
+  accountDetailsSnapshotPath,
   constants.COPYFILE_EXCL,
 );
+logger.success(
+  `Saved account details snapshot to ${accountDetailsSnapshotPath}`,
+);
 
+const balanceSummariesSnapshotPath = join(
+  currentArchiveDir,
+  balanceSummariesFilename,
+);
 copyFileSync(
   balanceSummariesPath,
-  join(currentArchiveDir, balanceSummariesFilename),
+  balanceSummariesSnapshotPath,
   constants.COPYFILE_EXCL,
+);
+logger.success(
+  `Saved balance summaries snapshot to ${balanceSummariesSnapshotPath}`,
 );

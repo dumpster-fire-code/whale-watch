@@ -1,2977 +1,2949 @@
-[
-  {
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "amount": 2470890010.796649,
-    "numHolders": 92,
-    "usdValue": 2468902333.689997
-  },
-  {
-    "name": "SHIBA INU",
-    "symbol": "SHIB",
-    "amount": 73474551772375.88,
-    "numHolders": 27,
-    "usdValue": 1852191959.4100006
-  },
-  {
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "amount": 1046179172.7700323,
-    "numHolders": 90,
-    "usdValue": 1046179172.8199993
-  },
-  {
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
-    "amount": 23423.715623529995,
-    "numHolders": 34,
-    "usdValue": 968932698.4599999
-  },
-  {
-    "name": "Binance USD",
-    "symbol": "BUSD",
-    "amount": 758043554.329211,
-    "numHolders": 8,
-    "usdValue": 758037026.5
-  },
-  {
-    "name": "Cronos Coin",
-    "symbol": "CRO",
-    "amount": 1305920581.1032002,
-    "numHolders": 8,
-    "usdValue": 542741722.4899999
-  },
-  {
-    "name": "ChainLink Token",
-    "symbol": "LINK",
-    "amount": 25899616.51076124,
-    "numHolders": 69,
-    "usdValue": 366639613.91999996
-  },
-  {
-    "name": "Bitpanda Ecosystem Token",
-    "symbol": "BEST",
-    "amount": 455591820.931096,
-    "numHolders": 2,
-    "usdValue": 360401660.22
-  },
-  {
-    "name": "BitDAO",
-    "symbol": "BIT",
-    "amount": 231766083.29765734,
-    "numHolders": 5,
-    "usdValue": 289560080.01000005
-  },
-  {
-    "name": "SwissBorg",
-    "symbol": "CHSB",
-    "amount": 601193378.771865,
-    "numHolders": 2,
-    "usdValue": 269774933.99
-  },
-  {
-    "name": "Compound Ether",
-    "symbol": "cETH",
-    "amount": 4214904.24931876,
-    "numHolders": 4,
-    "usdValue": 260914675.98000002
-  },
-  {
-    "name": "Matic Token",
-    "symbol": "MATIC",
-    "amount": 142858924.2407935,
-    "numHolders": 40,
-    "usdValue": 205491258.57
-  },
-  {
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "amount": 198750337.1430465,
-    "numHolders": 37,
-    "usdValue": 198615618.10999992
-  },
-  {
-    "name": "Bitrue Coin",
-    "symbol": "BTR",
-    "amount": 669885869,
-    "numHolders": 1,
-    "usdValue": 175076011.63
-  },
-  {
-    "name": "MXCToken",
-    "symbol": "MXC",
-    "amount": 1633409610.5939784,
-    "numHolders": 2,
-    "usdValue": 167083102.48
-  },
-  {
-    "name": "Gala",
-    "symbol": "GALA",
-    "amount": 763101407.5739645,
-    "numHolders": 12,
-    "usdValue": 155793035.89999998
-  },
-  {
-    "name": "Decentraland",
-    "symbol": "MANA",
-    "amount": 69205863.2656819,
-    "numHolders": 31,
-    "usdValue": 151598267.59999996
-  },
-  {
-    "name": "SAND",
-    "symbol": "SAND",
-    "amount": 49678580.89869138,
-    "numHolders": 22,
-    "usdValue": 151108923.09000003
-  },
-  {
-    "name": "chiliZ",
-    "symbol": "CHZ",
-    "amount": 649722996.7193646,
-    "numHolders": 16,
-    "usdValue": 149830932.36
-  },
-  {
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "amount": 40397.917153260016,
-    "numHolders": 26,
-    "usdValue": 124574251.82000002
-  },
-  {
-    "name": "Nexo",
-    "symbol": "NEXO",
-    "amount": 51390563.53711553,
-    "numHolders": 3,
-    "usdValue": 122823446.85000001
-  },
-  {
-    "name": "stakedETH",
-    "symbol": "stETH",
-    "amount": 47015.92990164,
-    "numHolders": 17,
-    "usdValue": 122721318.66
-  },
-  {
-    "name": "EnjinCoin",
-    "symbol": "ENJ",
-    "amount": 77776208.54134701,
-    "numHolders": 28,
-    "usdValue": 119764088.78999996
-  },
-  {
-    "name": "Dogelon",
-    "symbol": "ELON",
-    "amount": 151139587824961.62,
-    "numHolders": 3,
-    "usdValue": 118775336.92
-  },
-  {
-    "name": "Rocket Pool",
-    "symbol": "RPL",
-    "amount": 3192599.3886646796,
-    "numHolders": 8,
-    "usdValue": 108418769.93999998
-  },
-  {
-    "name": "Neutrino System Base Token",
-    "symbol": "NSBT",
-    "amount": 1823252.089701,
-    "numHolders": 1,
-    "usdValue": 93212897.83
-  },
-  {
-    "name": "HoloToken",
-    "symbol": "HOT",
-    "amount": 17164236492.329214,
-    "numHolders": 8,
-    "usdValue": 87427819.07999998
-  },
-  {
-    "name": "Uniswap",
-    "symbol": "UNI",
-    "amount": 9118706.478962889,
-    "numHolders": 76,
-    "usdValue": 85754305.41999996
-  },
-  {
-    "name": "Fantom Token",
-    "symbol": "FTM",
-    "amount": 72213626.9682989,
-    "numHolders": 16,
-    "usdValue": 85212079.82
-  },
-  {
-    "name": "Aave interest bearing USDC",
-    "symbol": "aUSDC",
-    "amount": 79317367.309725,
-    "numHolders": 2,
-    "usdValue": 79260655.39
-  },
-  {
-    "name": "BAT",
-    "symbol": "BAT",
-    "amount": 102446339.16421185,
-    "numHolders": 45,
-    "usdValue": 79026625.18
-  },
-  {
-    "name": "Maker",
-    "symbol": "MKR",
-    "amount": 41715.60004930999,
-    "numHolders": 47,
-    "usdValue": 77166048.88
-  },
-  {
-    "name": "yearn.finance",
-    "symbol": "YFI",
-    "amount": 3193.4118057900005,
-    "numHolders": 36,
-    "usdValue": 61116459.239999995
-  },
-  {
-    "name": "Quant",
-    "symbol": "QNT",
-    "amount": 465762.24710099003,
-    "numHolders": 10,
-    "usdValue": 53902419.16
-  },
-  {
-    "name": "FTX Token",
-    "symbol": "FTX To...",
-    "amount": 1217859.20770873,
-    "numHolders": 9,
-    "usdValue": 52844134.02000001
-  },
-  {
-    "name": "Aave interest bearing USDT",
-    "symbol": "aUSDT",
-    "amount": 50724618.99797,
-    "numHolders": 1,
-    "usdValue": 50724619
-  },
-  {
-    "name": "Aave Token",
-    "symbol": "AAVE",
-    "amount": 276233.72442287003,
-    "numHolders": 42,
-    "usdValue": 50232558.18000001
-  },
-  {
-    "name": "OMG Network",
-    "symbol": "OMG",
-    "amount": 10212862.476007484,
-    "numHolders": 387,
-    "usdValue": 50001190.39000003
-  },
-  {
-    "name": "Illuvium",
-    "symbol": "ILV",
-    "amount": 82225.45610837999,
-    "numHolders": 3,
-    "usdValue": 44482327.25000001
-  },
-  {
-    "name": "Pax Dollar",
-    "symbol": "USDP",
-    "amount": 43591388.1216593,
-    "numHolders": 13,
-    "usdValue": 43591388.13
-  },
-  {
-    "name": "LoopringCoin V2",
-    "symbol": "LRC",
-    "amount": 44685888.76404633,
-    "numHolders": 10,
-    "usdValue": 42797716.919999994
-  },
-  {
-    "name": "HUSD",
-    "symbol": "HUSD",
-    "amount": 40447095.85994528,
-    "numHolders": 4,
-    "usdValue": 40446961.28
-  },
-  {
-    "name": "ApeCoin",
-    "symbol": "APE",
-    "amount": 2485450.42139957,
-    "numHolders": 9,
-    "usdValue": 37813929.31
-  },
-  {
-    "name": "Wootrade Network",
-    "symbol": "WOO",
-    "amount": 74043054.22462012,
-    "numHolders": 3,
-    "usdValue": 36593623.72
-  },
-  {
-    "name": "TrueGBP",
-    "symbol": "TGBP",
-    "amount": 23818559.37,
-    "numHolders": 1,
-    "usdValue": 36592304.94
-  },
-  {
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "amount": 10300470.690978821,
-    "numHolders": 37,
-    "usdValue": 34566852.59
-  },
-  {
-    "name": "Lido DAO Token",
-    "symbol": "LDO",
-    "amount": 11388867.485802429,
-    "numHolders": 9,
-    "usdValue": 33483270.410000004
-  },
-  {
-    "name": "TrueUSD",
-    "symbol": "TUSD",
-    "amount": 33293842.653621897,
-    "numHolders": 9,
-    "usdValue": 33270786.13
-  },
-  {
-    "name": "Compound",
-    "symbol": "COMP",
-    "amount": 235438.9918568,
-    "numHolders": 38,
-    "usdValue": 33267311.82
-  },
-  {
-    "name": "EXMOCoin",
-    "symbol": "EXM",
-    "amount": 1185000510,
-    "numHolders": 1,
-    "usdValue": 32209143.36
-  },
-  {
-    "name": "Graph Token",
-    "symbol": "GRT",
-    "amount": 84960590.11367434,
-    "numHolders": 24,
-    "usdValue": 30722583.470000006
-  },
-  {
-    "name": "Axie Infinity Shard",
-    "symbol": "AXS",
-    "amount": 585971.5466848101,
-    "numHolders": 19,
-    "usdValue": 30181713.92000001
-  },
-  {
-    "name": "Render Token",
-    "symbol": "RNDR",
-    "amount": 13706176.836522918,
-    "numHolders": 7,
-    "usdValue": 29117804.71
-  },
-  {
-    "name": "CelerToken",
-    "symbol": "CELR",
-    "amount": 567358764.4206654,
-    "numHolders": 5,
-    "usdValue": 28583508.73
-  },
-  {
-    "name": "StormX",
-    "symbol": "STMX",
-    "amount": 1408377617.7942038,
-    "numHolders": 3,
-    "usdValue": 26902275.88
-  },
-  {
-    "name": "Hermez Network Token",
-    "symbol": "HEZ",
-    "amount": 4202266.13863668,
-    "numHolders": 2,
-    "usdValue": 25381278.5
-  },
-  {
-    "name": "dYdX",
-    "symbol": "DYDX",
-    "amount": 4490246.44843474,
-    "numHolders": 13,
-    "usdValue": 22497212.320000004
-  },
-  {
-    "name": "Curve DAO Token",
-    "symbol": "CRV",
-    "amount": 9487439.74633,
-    "numHolders": 24,
-    "usdValue": 21682635.27
-  },
-  {
-    "name": "Paxos Gold",
-    "symbol": "PAXG",
-    "amount": 10745.192216170002,
-    "numHolders": 8,
-    "usdValue": 20965687.35
-  },
-  {
-    "name": "AAX Token",
-    "symbol": "AAB",
-    "amount": 17499995,
-    "numHolders": 1,
-    "usdValue": 19599994.4
-  },
-  {
-    "name": "Kyber Network Crystal v2",
-    "symbol": "KNC",
-    "amount": 4437061.555239449,
-    "numHolders": 18,
-    "usdValue": 18901558.16
-  },
-  {
-    "name": "Ethereum Name Service",
-    "symbol": "ENS",
-    "amount": 1232367.4394087796,
-    "numHolders": 15,
-    "usdValue": 18316773.23
-  },
-  {
-    "name": "Chroma",
-    "symbol": "CHR",
-    "amount": 41142557.088782,
-    "numHolders": 3,
-    "usdValue": 18223248.3
-  },
-  {
-    "name": "Gluwa Creditcoin Vesting Token",
-    "symbol": "G-CRE",
-    "amount": 16000000,
-    "numHolders": 1,
-    "usdValue": 16906689.66
-  },
-  {
-    "name": "ALICE",
-    "symbol": "ALICE",
-    "amount": 2371194.647612,
-    "numHolders": 3,
-    "usdValue": 16644145.44
-  },
-  {
-    "name": "Smooth Love Potion",
-    "symbol": "SLP",
-    "amount": 925068299.6505271,
-    "numHolders": 5,
-    "usdValue": 16105402.099999998
-  },
-  {
-    "name": "1INCH Token",
-    "symbol": "1INCH",
-    "amount": 12208856.18614089,
-    "numHolders": 19,
-    "usdValue": 14816529.57
-  },
-  {
-    "name": "Cream",
-    "symbol": "CREAM",
-    "amount": 305475.17207058,
-    "numHolders": 4,
-    "usdValue": 14131403.05
-  },
-  {
-    "name": "PowerLedger",
-    "symbol": "POWR",
-    "amount": 24400812.83255,
-    "numHolders": 8,
-    "usdValue": 12676245.930000002
-  },
-  {
-    "name": "TheDAO",
-    "symbol": "TheDAO",
-    "amount": 400000,
-    "numHolders": 1,
-    "usdValue": 12345131.72
-  },
-  {
-    "name": "Artificial Liquid Intelligence Token",
-    "symbol": "ALI",
-    "amount": 155167463.576432,
-    "numHolders": 1,
-    "usdValue": 12164818.81
-  },
-  {
-    "name": "Reserve Rights",
-    "symbol": "RSR",
-    "amount": 849156642.3850436,
-    "numHolders": 5,
-    "usdValue": 12131696.23
-  },
-  {
-    "name": "WiBX Utility Token",
-    "symbol": "WBX",
-    "amount": 1556464845.50146,
-    "numHolders": 1,
-    "usdValue": 11727386.72
-  },
-  {
-    "name": "Ocean Token",
-    "symbol": "OCEAN",
-    "amount": 20940189.317614127,
-    "numHolders": 9,
-    "usdValue": 11470683.84
-  },
-  {
-    "name": "OriginToken",
-    "symbol": "OGN",
-    "amount": 16254378.60097172,
-    "numHolders": 9,
-    "usdValue": 10574104.32
-  },
-  {
-    "name": "Wrapped LUNA Token",
-    "symbol": "LUNA",
-    "amount": 111062.27917155,
-    "numHolders": 4,
-    "usdValue": 10427637.39
-  },
-  {
-    "name": "QASH",
-    "symbol": "QASH",
-    "amount": 134601842.421011,
-    "numHolders": 2,
-    "usdValue": 10215631.77
-  },
-  {
-    "name": "Boba Token",
-    "symbol": "BOBA",
-    "amount": 7565116.23427692,
-    "numHolders": 5,
-    "usdValue": 10212906.92
-  },
-  {
-    "name": "Fetch",
-    "symbol": "FET",
-    "amount": 29359730.13359534,
-    "numHolders": 5,
-    "usdValue": 10120842.260000002
-  },
-  {
-    "name": "Utrust Token",
-    "symbol": "UTK",
-    "amount": 39588283.0525617,
-    "numHolders": 3,
-    "usdValue": 9858128.33
-  },
-  {
-    "name": "DeRace Token",
-    "symbol": "DERC",
-    "amount": 8337428.59168673,
-    "numHolders": 1,
-    "usdValue": 9718198.3
-  },
-  {
-    "name": "StakeWise Staked ETH2",
-    "symbol": "sETH2",
-    "amount": 3121.957616382,
-    "numHolders": 1,
-    "usdValue": 9599769.91
-  },
-  {
-    "name": "DENT",
-    "symbol": "DENT",
-    "amount": 3364287163.7916293,
-    "numHolders": 5,
-    "usdValue": 9381122.14
-  },
-  {
-    "name": "Convex Token",
-    "symbol": "CVX",
-    "amount": 311987.11930062,
-    "numHolders": 4,
-    "usdValue": 8749392.159999998
-  },
-  {
-    "name": "MIMO Parallel Governance Token",
-    "symbol": "MIMO",
-    "amount": 112057540.000863,
-    "numHolders": 1,
-    "usdValue": 8244219.04
-  },
-  {
-    "name": "Republic",
-    "symbol": "REN",
-    "amount": 21774058.147365812,
-    "numHolders": 13,
-    "usdValue": 8162463.420000001
-  },
-  {
-    "name": "Anchor",
-    "symbol": "ANCT",
-    "amount": 10096863.0993212,
-    "numHolders": 1,
-    "usdValue": 8044019.38
-  },
-  {
-    "name": "Audius",
-    "symbol": "AUDIO",
-    "amount": 6001951.894371901,
-    "numHolders": 7,
-    "usdValue": 7978126.699999999
-  },
-  {
-    "name": "ZRX",
-    "symbol": "ZRX",
-    "amount": 10498165.012688281,
-    "numHolders": 31,
-    "usdValue": 7622147.32
-  },
-  {
-    "name": "Synthetix Network Token",
-    "symbol": "SNX",
-    "amount": 1222972.63380446,
-    "numHolders": 25,
-    "usdValue": 7441682.489999999
-  },
-  {
-    "name": "Telcoin",
-    "symbol": "TEL",
-    "amount": 1175814157.08,
-    "numHolders": 2,
-    "usdValue": 7301991.42
-  },
-  {
-    "name": "UMA Voting Token v1",
-    "symbol": "UMA",
-    "amount": 1138609.83671235,
-    "numHolders": 13,
-    "usdValue": 7287102.96
-  },
-  {
-    "name": "RLC",
-    "symbol": "RLC",
-    "amount": 3478685.9729014705,
-    "numHolders": 12,
-    "usdValue": 7267896.619999999
-  },
-  {
-    "name": "Ankr Network",
-    "symbol": "ANKR",
-    "amount": 90083747.32076241,
-    "numHolders": 8,
-    "usdValue": 6739832.96
-  },
-  {
-    "name": "Request",
-    "symbol": "REQ",
-    "amount": 29482401.1649476,
-    "numHolders": 6,
-    "usdValue": 6634849.919999999
-  },
-  {
-    "name": "MiraQle",
-    "symbol": "MQL",
-    "amount": 180000000,
-    "numHolders": 1,
-    "usdValue": 6565462.7
-  },
-  {
-    "name": "DREP",
-    "symbol": "DREP",
-    "amount": 6436932.11314123,
-    "numHolders": 1,
-    "usdValue": 6507738.37
-  },
-  {
-    "name": "Keep3rV1",
-    "symbol": "KP3R",
-    "amount": 15856.358924549,
-    "numHolders": 3,
-    "usdValue": 6451429.42
-  },
-  {
-    "name": "Compound Uniswap",
-    "symbol": "cUNI",
-    "amount": 31884028.4319795,
-    "numHolders": 1,
-    "usdValue": 6082338.55
-  },
-  {
-    "name": "Reputation",
-    "symbol": "REPv2",
-    "amount": 556343.895660326,
-    "numHolders": 11,
-    "usdValue": 6013717.489999999
-  },
-  {
-    "name": "Aragon Network Token",
-    "symbol": "ANT",
-    "amount": 1347198.6397835,
-    "numHolders": 4,
-    "usdValue": 5914202.030000001
-  },
-  {
-    "name": "Automata",
-    "symbol": "ATA",
-    "amount": 15355585.1605368,
-    "numHolders": 1,
-    "usdValue": 5898110.97
-  },
-  {
-    "name": "XY Oracle",
-    "symbol": "XYO",
-    "amount": 328002950.882038,
-    "numHolders": 1,
-    "usdValue": 5894354.07
-  },
-  {
-    "name": "TownCoin",
-    "symbol": "TOWN",
-    "amount": 59334997.508,
-    "numHolders": 1,
-    "usdValue": 5819457.89
-  },
-  {
-    "name": "Tellor Tributes",
-    "symbol": "TRB",
-    "amount": 259689.6161725,
-    "numHolders": 5,
-    "usdValue": 5593525.119999999
-  },
-  {
-    "name": "DIAToken",
-    "symbol": "DIA",
-    "amount": 6034449.2580083,
-    "numHolders": 5,
-    "usdValue": 5544344.620000001
-  },
-  {
-    "name": "Spell Token",
-    "symbol": "SPELL",
-    "amount": 1268520805.9474425,
-    "numHolders": 5,
-    "usdValue": 5459283.5600000005
-  },
-  {
-    "name": "SingularityNET Token",
-    "symbol": "AGIX",
-    "amount": 34881968.5468922,
-    "numHolders": 3,
-    "usdValue": 5429450.08
-  },
-  {
-    "name": "BZZ",
-    "symbol": "BZZ",
-    "amount": 4127862.1489729,
-    "numHolders": 7,
-    "usdValue": 5383636.42
-  },
-  {
-    "name": "FunFair",
-    "symbol": "FUN",
-    "amount": 438355135.4275688,
-    "numHolders": 8,
-    "usdValue": 4781473.96
-  },
-  {
-    "name": "renBTC",
-    "symbol": "renBTC",
-    "amount": 114.73630608,
-    "numHolders": 3,
-    "usdValue": 4735652.4399999995
-  },
-  {
-    "name": "Token Prometeus Network",
-    "symbol": "PROM",
-    "amount": 523837.14829255,
-    "numHolders": 1,
-    "usdValue": 4725011.08
-  },
-  {
-    "name": "Golem Network Token",
-    "symbol": "GLM",
-    "amount": 10819646.1052957,
-    "numHolders": 7,
-    "usdValue": 4659508.6
-  },
-  {
-    "name": "Adventure Gold",
-    "symbol": "AGLD",
-    "amount": 3446619.26817239,
-    "numHolders": 3,
-    "usdValue": 4415481.13
-  },
-  {
-    "name": "Auction",
-    "symbol": "Auctio...",
-    "amount": 317289.73663274,
-    "numHolders": 1,
-    "usdValue": 4381771.26
-  },
-  {
-    "name": "IOSToken",
-    "symbol": "IOST",
-    "amount": 137000000,
-    "numHolders": 2,
-    "usdValue": 4252373.8100000005
-  },
-  {
-    "name": "Tribe",
-    "symbol": "TRIBE",
-    "amount": 7377172.6310936995,
-    "numHolders": 5,
-    "usdValue": 4119782.7600000007
-  },
-  {
-    "name": "Decentral Games Governance",
-    "symbol": "xDG",
-    "amount": 17898752.43236997,
-    "numHolders": 3,
-    "usdValue": 4003285.62
-  },
-  {
-    "name": "Pundi X Token",
-    "symbol": "PUNDIX",
-    "amount": 4377665.76626029,
-    "numHolders": 4,
-    "usdValue": 3920927.83
-  },
-  {
-    "name": "DODO bird",
-    "symbol": "DODO",
-    "amount": 9495761.04163455,
-    "numHolders": 4,
-    "usdValue": 3873093.2899999996
-  },
-  {
-    "name": "Storj",
-    "symbol": "STORJ",
-    "amount": 2737026.7967733396,
-    "numHolders": 12,
-    "usdValue": 3727561.8100000005
-  },
-  {
-    "name": "Polymath",
-    "symbol": "POLY",
-    "amount": 8859247.89447114,
-    "numHolders": 3,
-    "usdValue": 3717756.8000000003
-  },
-  {
+{
+  "FORTH": {
     "name": "Ampleforth Governance",
     "symbol": "FORTH",
     "amount": 591958.26166874,
     "numHolders": 4,
-    "usdValue": 3693819.56
+    "usdValue": 3699832.9299999997
   },
-  {
-    "name": "Amp",
-    "symbol": "AMP",
-    "amount": 158538508.2480998,
-    "numHolders": 5,
-    "usdValue": 3522540.03
+  "OMG": {
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "amount": 10933457.436306253,
+    "numHolders": 387,
+    "usdValue": 52673596.490000114
   },
-  {
-    "name": "Dalarnia",
-    "symbol": "DAR",
-    "amount": 2847326.137178,
-    "numHolders": 1,
-    "usdValue": 3414752.74
+  "USDT": {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "amount": 1093839877.6599019,
+    "numHolders": 91,
+    "usdValue": 1093786242.5100002
   },
-  {
-    "name": "STASIS EURS Token",
-    "symbol": "EURS",
-    "amount": 3143562.36,
-    "numHolders": 1,
-    "usdValue": 3360468.16
+  "USDC": {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "amount": 2684083596.0459104,
+    "numHolders": 90,
+    "usdValue": 2681522484.279999
   },
-  {
-    "name": "Gnosis",
-    "symbol": "GNO",
-    "amount": 9061.49315775,
-    "numHolders": 4,
-    "usdValue": 3162098.97
+  "1INCH": {
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "amount": 12222111.94062829,
+    "numHolders": 19,
+    "usdValue": 15078297.029999997
   },
-  {
-    "name": "StatusNetwork",
-    "symbol": "SNT",
-    "amount": 47395958.08425721,
-    "numHolders": 9,
-    "usdValue": 3137132.6800000006
-  },
-  {
-    "name": "Civic",
-    "symbol": "CVC",
-    "amount": 9994774.29977304,
-    "numHolders": 9,
-    "usdValue": 2908065.0599999996
-  },
-  {
-    "name": "Badger",
-    "symbol": "BADGER",
-    "amount": 320154.33129048,
-    "numHolders": 5,
-    "usdValue": 2905591.81
-  },
-  {
-    "name": "Litentry",
-    "symbol": "LIT",
-    "amount": 1985981.60309622,
-    "numHolders": 1,
-    "usdValue": 2800234.06
-  },
-  {
-    "name": "TokenClub Token",
-    "symbol": "TCT",
-    "amount": 99477041.0558822,
-    "numHolders": 1,
-    "usdValue": 2767270.23
-  },
-  {
-    "name": "EthLend",
-    "symbol": "LEND",
-    "amount": 1488747.37030388,
-    "numHolders": 1,
-    "usdValue": 2679745.27
-  },
-  {
-    "name": "LCX",
-    "symbol": "LCX",
-    "amount": 22163793.5686824,
-    "numHolders": 1,
-    "usdValue": 2628116.15
-  },
-  {
-    "name": "Mainframe Token",
-    "symbol": "MFT",
-    "amount": 282100003.055,
+  "AGLD": {
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "amount": 3446619.26817239,
     "numHolders": 3,
-    "usdValue": 2439860.35
+    "usdValue": 4901197.22
   },
-  {
-    "name": "Compound USDT",
-    "symbol": "cUSDT",
-    "amount": 107821520.46993604,
-    "numHolders": 8,
-    "usdValue": 2349103.4799999995
-  },
-  {
-    "name": "Numeraire",
-    "symbol": "NMR",
-    "amount": 87063.72486138,
-    "numHolders": 3,
-    "usdValue": 2335049.1
-  },
-  {
-    "name": "Perpetual",
-    "symbol": "PERP",
-    "amount": 566900.06347608,
-    "numHolders": 7,
-    "usdValue": 2331710.46
-  },
-  {
-    "name": "OCC",
-    "symbol": "OCC",
-    "amount": 2075266.76128579,
-    "numHolders": 1,
-    "usdValue": 2303546.11
-  },
-  {
-    "name": "Gemini dollar",
-    "symbol": "GUSD",
-    "amount": 2282623.44,
-    "numHolders": 3,
-    "usdValue": 2284906.06
-  },
-  {
-    "name": "Bella",
-    "symbol": "BEL",
-    "amount": 2598471.83874024,
-    "numHolders": 2,
-    "usdValue": 2280424.85
-  },
-  {
-    "name": "Balancer",
-    "symbol": "BAL",
-    "amount": 141058.79821503002,
-    "numHolders": 13,
-    "usdValue": 2273464.1200000006
-  },
-  {
-    "name": "Wilder",
-    "symbol": "WILD",
-    "amount": 1808501.59180744,
-    "numHolders": 1,
-    "usdValue": 2257748.02
-  },
-  {
-    "name": "Beta Token",
-    "symbol": "BETA",
-    "amount": 5553439.34052846,
-    "numHolders": 2,
-    "usdValue": 2241317.63
-  },
-  {
-    "name": "Rarible",
-    "symbol": "RARI",
-    "amount": 282962.61766602,
-    "numHolders": 5,
-    "usdValue": 2220781.88
-  },
-  {
-    "name": "XSGD",
-    "symbol": "XSGD",
-    "amount": 3020390.113054,
-    "numHolders": 2,
-    "usdValue": 2203514.96
-  },
-  {
-    "name": "Frax Share",
-    "symbol": "FXS",
-    "amount": 64089.902,
-    "numHolders": 3,
-    "usdValue": 2202775.83
-  },
-  {
-    "name": "GRID",
-    "symbol": "GRID",
-    "amount": 1614373.6588863,
-    "numHolders": 4,
-    "usdValue": 2082542.0199999998
-  },
-  {
-    "name": "HuobiToken",
-    "symbol": "HT",
-    "amount": 215913.2856681,
-    "numHolders": 8,
-    "usdValue": 2041795.1
-  },
-  {
-    "name": "Aavegotchi GHST Token",
-    "symbol": "GHST",
-    "amount": 1125377.4274,
-    "numHolders": 3,
-    "usdValue": 2039543.4600000002
-  },
-  {
-    "name": "Bluzelle",
-    "symbol": "BLZ",
-    "amount": 12025909.9232332,
-    "numHolders": 2,
-    "usdValue": 2000027.16
-  },
-  {
-    "name": "Serum",
-    "symbol": "SRM",
-    "amount": 756902.4954789999,
-    "numHolders": 8,
-    "usdValue": 1854411.1099999999
-  },
-  {
-    "name": "GAME Credits",
-    "symbol": "GAME",
-    "amount": 26510746,
-    "numHolders": 1,
-    "usdValue": 1821394.29
-  },
-  {
-    "name": "Uniswap imBTC/ETH LP",
-    "symbol": "UNI-V2",
-    "amount": 0.005587623999999999,
-    "numHolders": 2,
-    "usdValue": 1790846.99
-  },
-  {
-    "name": "BandToken",
-    "symbol": "BAND",
-    "amount": 443411.30023767,
-    "numHolders": 4,
-    "usdValue": 1766556.43
-  },
-  {
-    "name": "ERC20",
-    "symbol": "ERC20",
-    "amount": 10000000020,
-    "numHolders": 1,
-    "usdValue": 1724026
-  },
-  {
-    "name": "DappRadar",
-    "symbol": "RADAR",
-    "amount": 89747706.8085466,
-    "numHolders": 1,
-    "usdValue": 1717776.49
-  },
-  {
-    "name": "Melon Token",
-    "symbol": "MLN",
-    "amount": 30370.24231,
-    "numHolders": 6,
-    "usdValue": 1712577.9600000002
-  },
-  {
-    "name": "API3",
-    "symbol": "API3",
-    "amount": 1257536.95300453,
-    "numHolders": 4,
-    "usdValue": 1672042.6
-  },
-  {
-    "name": "pNetwork Token",
-    "symbol": "PNT",
-    "amount": 2853611.27968729,
-    "numHolders": 2,
-    "usdValue": 1654677.2
-  },
-  {
-    "name": "TrueFi",
-    "symbol": "TRU",
-    "amount": 8291344.06949944,
-    "numHolders": 4,
-    "usdValue": 1620558.93
-  },
-  {
-    "name": "Measurable Data Token",
-    "symbol": "MDT",
-    "amount": 30176692.99799872,
-    "numHolders": 3,
-    "usdValue": 1605854.91
-  },
-  {
-    "name": "Livepeer Token",
-    "symbol": "LPT",
-    "amount": 65700.48880069,
-    "numHolders": 6,
-    "usdValue": 1582855.5999999999
-  },
-  {
-    "name": "BarnBridge Governance Token",
-    "symbol": "BOND",
-    "amount": 202484.65706256998,
-    "numHolders": 3,
-    "usdValue": 1577460.5799999998
-  },
-  {
-    "name": "NKN",
-    "symbol": "NKN",
-    "amount": 7174124.98132049,
-    "numHolders": 4,
-    "usdValue": 1564313.75
-  },
-  {
-    "name": "GMO JPY",
-    "symbol": "GYEN",
-    "amount": 199938926.630532,
-    "numHolders": 1,
-    "usdValue": 1556318.24
-  },
-  {
-    "name": "Orchid",
-    "symbol": "OXT",
-    "amount": 6278052.36593551,
-    "numHolders": 5,
-    "usdValue": 1535010.6000000003
-  },
-  {
-    "name": "Moss Carbon Credit",
-    "symbol": "MCO2",
-    "amount": 148334.5004522,
-    "numHolders": 1,
-    "usdValue": 1493728.42
-  },
-  {
-    "name": "AlphaToken",
-    "symbol": "ALPHA",
-    "amount": 3835234.08746606,
-    "numHolders": 6,
-    "usdValue": 1435704.05
-  },
-  {
-    "name": "Immutable X",
-    "symbol": "IMX",
-    "amount": 676890.83195126,
-    "numHolders": 4,
-    "usdValue": 1374088.4
-  },
-  {
-    "name": "district0x",
-    "symbol": "DNT",
-    "amount": 10246036.015939932,
-    "numHolders": 5,
-    "usdValue": 1243162.9200000002
-  },
-  {
-    "name": "RFOX",
-    "symbol": "RFOX",
-    "amount": 25229450,
-    "numHolders": 1,
-    "usdValue": 1241889.23
-  },
-  {
-    "name": "Mask Network",
-    "symbol": "MASK",
-    "amount": 272263.7107888,
-    "numHolders": 3,
-    "usdValue": 1216886.42
-  },
-  {
-    "name": "UniBright",
-    "symbol": "UBT",
-    "amount": 1446068.67452515,
-    "numHolders": 2,
-    "usdValue": 1166285.02
-  },
-  {
-    "name": "Compound Dai",
-    "symbol": "cDAI",
-    "amount": 52628538.42788432,
-    "numHolders": 7,
-    "usdValue": 1155240.2500000002
-  },
-  {
-    "name": "wrapped-DGLD",
-    "symbol": "wDGLD",
-    "amount": 6033.23893286,
-    "numHolders": 1,
-    "usdValue": 1153736.28
-  },
-  {
-    "name": "BRZ",
-    "symbol": "BRZ",
-    "amount": 5371678.3769,
-    "numHolders": 1,
-    "usdValue": 1120918.87
-  },
-  {
-    "name": "Octopus Network Token",
-    "symbol": "OCT",
-    "amount": 487706.67,
-    "numHolders": 1,
-    "usdValue": 1102217.07
-  },
-  {
-    "name": "Biconomy Token",
-    "symbol": "BICO",
-    "amount": 763343.17565129,
-    "numHolders": 2,
-    "usdValue": 1077161.6300000001
-  },
-  {
-    "name": "CoinEx Token",
-    "symbol": "CET",
-    "amount": 16350579.9791626,
-    "numHolders": 1,
-    "usdValue": 1076113.42
-  },
-  {
-    "name": "Bancor Governance Token",
-    "symbol": "vBNT",
-    "amount": 689410.13661565,
-    "numHolders": 1,
-    "usdValue": 1061691.61
-  },
-  {
-    "name": "Compound 0x",
-    "symbol": "cZRX",
-    "amount": 70995588.3293653,
-    "numHolders": 1,
-    "usdValue": 1056921.97
-  },
-  {
-    "name": "Covalent Query Token",
-    "symbol": "CQT",
-    "amount": 3148409.25065828,
-    "numHolders": 2,
-    "usdValue": 1022671.0399999999
-  },
-  {
-    "name": "Celsius",
-    "symbol": "CEL",
-    "amount": 457508.51269999996,
-    "numHolders": 3,
-    "usdValue": 1015668.91
-  },
-  {
-    "name": "NFTrade Token",
-    "symbol": "NFTD",
-    "amount": 1381179.4467,
-    "numHolders": 1,
-    "usdValue": 984727.08
-  },
-  {
-    "name": "Rally",
-    "symbol": "RLY",
-    "amount": 6030000,
-    "numHolders": 1,
-    "usdValue": 981840.78
-  },
-  {
-    "name": "HEX",
-    "symbol": "HEX",
-    "amount": 7958819.62438549,
-    "numHolders": 5,
-    "usdValue": 970820.6
-  },
-  {
-    "name": "PolkastarterToken",
-    "symbol": "POLS",
-    "amount": 660393.1796043001,
-    "numHolders": 2,
-    "usdValue": 966720.2899999999
-  },
-  {
-    "name": "Synapse",
-    "symbol": "SYN",
-    "amount": 276797.9688025,
-    "numHolders": 2,
-    "usdValue": 954952.99
-  },
-  {
-    "name": "AllianceBlock Token",
-    "symbol": "ALBT",
-    "amount": 4520358.54356619,
-    "numHolders": 1,
-    "usdValue": 935325.47
-  },
-  {
-    "name": "BTRST",
-    "symbol": "BTRST",
-    "amount": 245998.1353933,
-    "numHolders": 1,
-    "usdValue": 929872.95
-  },
-  {
-    "name": "Swipe",
-    "symbol": "SXP",
-    "amount": 650875.03981536,
-    "numHolders": 2,
-    "usdValue": 885190.05
-  },
-  {
-    "name": "Eden",
-    "symbol": "EDEN",
-    "amount": 3065016.45390944,
-    "numHolders": 3,
-    "usdValue": 866645.6699999999
-  },
-  {
-    "name": "QuarkChain Token",
-    "symbol": "QKC",
-    "amount": 38000000,
-    "numHolders": 1,
-    "usdValue": 814063.74
-  },
-  {
-    "name": "EASY V2",
-    "symbol": "EZ",
-    "amount": 394835.41661969,
-    "numHolders": 1,
-    "usdValue": 813360.96
-  },
-  {
-    "name": "SKALE",
-    "symbol": "SKL",
-    "amount": 4046839.45876327,
-    "numHolders": 2,
-    "usdValue": 812814.1599999999
-  },
-  {
-    "name": "Bancor",
-    "symbol": "BNT",
-    "amount": 353920.93664334,
-    "numHolders": 14,
-    "usdValue": 810478.94
-  },
-  {
-    "name": "SelfKey",
-    "symbol": "KEY",
-    "amount": 94588481.7802956,
-    "numHolders": 3,
-    "usdValue": 809304.3200000001
-  },
-  {
-    "name": "Bitfinex LEO Token",
-    "symbol": "LEO",
-    "amount": 135822.72344600002,
-    "numHolders": 3,
-    "usdValue": 793312.89
-  },
-  {
-    "name": "Wrapped NXM",
-    "symbol": "wNXM",
-    "amount": 28403.37596939,
-    "numHolders": 5,
-    "usdValue": 793126.37
-  },
-  {
-    "name": "XDEFI",
-    "symbol": "XDEFI",
-    "amount": 718183.9694,
-    "numHolders": 2,
-    "usdValue": 782252.34
-  },
-  {
-    "name": "Wrapped MIR Token",
-    "symbol": "MIR",
-    "amount": 548734.75013965,
-    "numHolders": 2,
-    "usdValue": 774596.6900000001
-  },
-  {
-    "name": "Synth sUSD",
-    "symbol": "sUSD",
-    "amount": 776508,
-    "numHolders": 1,
-    "usdValue": 774310.48
-  },
-  {
-    "name": "Streamr",
-    "symbol": "DATA",
-    "amount": 10100000.000039,
-    "numHolders": 2,
-    "usdValue": 759291.2
-  },
-  {
-    "name": "NuCypher",
-    "symbol": "NU",
-    "amount": 2000000,
-    "numHolders": 1,
-    "usdValue": 743192.37
-  },
-  {
-    "name": "Robonomics",
-    "symbol": "XRT",
-    "amount": 72573.10311578,
-    "numHolders": 2,
-    "usdValue": 742422.84
-  },
-  {
-    "name": "Compound USD Coin",
-    "symbol": "cUSDC",
-    "amount": 32869817.409597114,
-    "numHolders": 7,
-    "usdValue": 741169.71
-  },
-  {
-    "name": "Decentralized Insurance Protocol",
-    "symbol": "DIP",
-    "amount": 16622912.2699219,
-    "numHolders": 1,
-    "usdValue": 738300.1
-  },
-  {
-    "name": "Cartesi Token",
-    "symbol": "CTSI",
-    "amount": 2000000,
-    "numHolders": 1,
-    "usdValue": 720616.88
-  },
-  {
-    "name": "AirSwap",
-    "symbol": "AST",
-    "amount": 4587241.3733,
-    "numHolders": 2,
-    "usdValue": 669938.9
-  },
-  {
-    "name": "IceToken",
-    "symbol": "ICE",
-    "amount": 323960.45780113,
-    "numHolders": 3,
-    "usdValue": 667358.5399999999
-  },
-  {
-    "name": "Akropolis",
-    "symbol": "AKRO",
-    "amount": 55743557,
-    "numHolders": 1,
-    "usdValue": 650209.97
-  },
-  {
-    "name": "KuCoin Token",
-    "symbol": "KCS",
-    "amount": 27124.4067,
-    "numHolders": 3,
-    "usdValue": 569391.92
-  },
-  {
-    "name": "STPT",
-    "symbol": "STPT",
-    "amount": 6173442.22324758,
-    "numHolders": 1,
-    "usdValue": 557221.07
-  },
-  {
-    "name": "Populous",
-    "symbol": "PPT",
-    "amount": 1843036.83267152,
-    "numHolders": 2,
-    "usdValue": 555729.0599999999
-  },
-  {
-    "name": "Kryll",
-    "symbol": "KRL",
-    "amount": 655330.71629367,
-    "numHolders": 1,
-    "usdValue": 552009.96
-  },
-  {
-    "name": "Bread",
-    "symbol": "BRD",
-    "amount": 2683282.45888078,
-    "numHolders": 2,
-    "usdValue": 538577.5
-  },
-  {
-    "name": "Coin98",
-    "symbol": "C98",
-    "amount": 326119.4095643198,
-    "numHolders": 1,
-    "usdValue": 521763.37
-  },
-  {
-    "name": "Guarded Ether",
-    "symbol": "GETH",
-    "amount": 217.15771592,
-    "numHolders": 1,
-    "usdValue": 511499.8
-  },
-  {
+  "AERGO": {
     "name": "Aergo",
     "symbol": "AERGO",
     "amount": 1921761.26359747,
     "numHolders": 2,
-    "usdValue": 466891.9
+    "usdValue": 468540.77
   },
-  {
-    "name": "Pluton",
-    "symbol": "PLU",
-    "amount": 60000.9479861,
-    "numHolders": 1,
-    "usdValue": 455407.2
+  "ALPHA": {
+    "name": "AlphaToken",
+    "symbol": "ALPHA",
+    "amount": 13835234.087466061,
+    "numHolders": 6,
+    "usdValue": 5474774.349999999
   },
-  {
-    "name": "Perlin",
-    "symbol": "PERL",
-    "amount": 10028364.4798831,
-    "numHolders": 1,
-    "usdValue": 448400.97
-  },
-  {
-    "name": "Gitcoin",
-    "symbol": "GTC",
-    "amount": 71898.4752017,
-    "numHolders": 1,
-    "usdValue": 444332.58
-  },
-  {
-    "name": "Freeliquid",
-    "symbol": "FL",
-    "amount": 496299.10533271,
-    "numHolders": 1,
-    "usdValue": 439394.38
-  },
-  {
-    "name": "Efinity Token",
-    "symbol": "EFI",
-    "amount": 952863.06724076,
-    "numHolders": 2,
-    "usdValue": 434216.91
-  },
-  {
-    "name": "Marlin POND",
-    "symbol": "POND",
-    "amount": 14467126,
-    "numHolders": 1,
-    "usdValue": 424330.5
-  },
-  {
-    "name": "ROOBEE",
-    "symbol": "ROOBEE",
-    "amount": 137899382.4197346,
-    "numHolders": 2,
-    "usdValue": 424097.63
-  },
-  {
-    "name": "GATE",
-    "symbol": "GATE",
-    "amount": 20499122.12748526,
-    "numHolders": 3,
-    "usdValue": 410042.33999999997
-  },
-  {
-    "name": "Injective Token",
-    "symbol": "INJ",
-    "amount": 78391.57014607001,
-    "numHolders": 3,
-    "usdValue": 402533.13
-  },
-  {
-    "name": "SPANK",
-    "symbol": "SPANK",
-    "amount": 41151578,
-    "numHolders": 1,
-    "usdValue": 396818.49
-  },
-  {
-    "name": "QRL",
-    "symbol": "QRL",
-    "amount": 1168508.0314,
-    "numHolders": 2,
-    "usdValue": 396691.65
-  },
-  {
-    "name": "Wrapped UST Token",
-    "symbol": "UST",
-    "amount": 392460.16438884,
-    "numHolders": 2,
-    "usdValue": 394422.46
-  },
-  {
-    "name": "Acash Coin",
-    "symbol": "ACA",
-    "amount": 4555954.35096,
-    "numHolders": 1,
-    "usdValue": 359484.66
-  },
-  {
-    "name": "VALID",
-    "symbol": "VLD",
-    "amount": 31603482.1435379,
-    "numHolders": 1,
-    "usdValue": 342469.32
-  },
-  {
-    "name": "Kin",
-    "symbol": "KIN",
-    "amount": 9138430160.748066,
-    "numHolders": 2,
-    "usdValue": 310667.3
-  },
-  {
-    "name": "Aave interest bearing UNI",
-    "symbol": "aUNI",
-    "amount": 32231.10207779,
-    "numHolders": 1,
-    "usdValue": 303939.29
-  },
-  {
-    "name": "OKB",
-    "symbol": "OKB",
-    "amount": 15202.706,
-    "numHolders": 2,
-    "usdValue": 303902.08999999997
-  },
-  {
-    "name": "stkAAVE",
-    "symbol": "stkAAV...",
-    "amount": 1669.8361763800003,
-    "numHolders": 7,
-    "usdValue": 303754.22000000003
-  },
-  {
-    "name": "Maple Token",
-    "symbol": "MPL",
-    "amount": 5200,
-    "numHolders": 1,
-    "usdValue": 279344
-  },
-  {
-    "name": "Alien Worlds Trilium",
-    "symbol": "TLM",
-    "amount": 2669682.05,
-    "numHolders": 1,
-    "usdValue": 276733.45
-  },
-  {
-    "name": "BlockchainPoland",
-    "symbol": "BCP",
-    "amount": 16230403.1009891,
-    "numHolders": 1,
-    "usdValue": 263975.17
-  },
-  {
-    "name": "Raiden",
-    "symbol": "RDN",
-    "amount": 2164728.33381176,
-    "numHolders": 3,
-    "usdValue": 260953.21999999997
-  },
-  {
-    "name": "SAN",
-    "symbol": "SAN",
-    "amount": 883479.96714768,
-    "numHolders": 1,
-    "usdValue": 251177.77
-  },
-  {
-    "name": "BLOCKv",
-    "symbol": "VEE",
-    "amount": 78629802.4,
-    "numHolders": 1,
-    "usdValue": 247495.95
-  },
-  {
-    "name": "Notional",
-    "symbol": "NOTE",
-    "amount": 254051.15413568,
-    "numHolders": 1,
-    "usdValue": 242691.76
-  },
-  {
+  "ANY": {
     "name": "Anyswap",
     "symbol": "ANY",
     "amount": 18978.53856055,
     "numHolders": 1,
-    "usdValue": 240759.95
+    "usdValue": 260411.12
   },
-  {
-    "name": "Cardstack",
-    "symbol": "CARD",
-    "amount": 55712787.8489032,
-    "numHolders": 1,
-    "usdValue": 239372.78
-  },
-  {
-    "name": "DeGate Token",
-    "symbol": "DG",
-    "amount": 1481224.52391438,
-    "numHolders": 1,
-    "usdValue": 230711.09
-  },
-  {
-    "name": "Multichain",
-    "symbol": "MULTI",
-    "amount": 19109.35695064,
-    "numHolders": 1,
-    "usdValue": 230649.94
-  },
-  {
-    "name": "Ampleforth",
-    "symbol": "AMPL",
-    "amount": 204104.53608636,
-    "numHolders": 2,
-    "usdValue": 230085.19
-  },
-  {
-    "name": "Rari Governance Token",
-    "symbol": "RGT",
-    "amount": 13683.539997029999,
-    "numHolders": 2,
-    "usdValue": 211385.62
-  },
-  {
-    "name": "Rupiah Token",
-    "symbol": "IDRT",
-    "amount": 3000034073.56,
-    "numHolders": 2,
-    "usdValue": 209748.24
-  },
-  {
-    "name": "NFT Protocol",
-    "symbol": "NFT",
-    "amount": 1333328,
-    "numHolders": 1,
-    "usdValue": 203539.19
-  },
-  {
-    "name": "CudosToken",
-    "symbol": "CUDOS",
-    "amount": 9610865.100000989,
-    "numHolders": 2,
-    "usdValue": 200295.16999999998
-  },
-  {
-    "name": "Monolith",
-    "symbol": "TKN",
-    "amount": 945837.8319999999,
-    "numHolders": 5,
-    "usdValue": 172048.85
-  },
-  {
-    "name": "Somnium Space Cubes",
-    "symbol": "CUBE",
-    "amount": 35088.31919467,
-    "numHolders": 1,
-    "usdValue": 171448.77
-  },
-  {
-    "name": "BondAppetit Governance",
-    "symbol": "BAG",
-    "amount": 5171593.0985932,
-    "numHolders": 1,
-    "usdValue": 169496.17
-  },
-  {
-    "name": "Reef.finance",
-    "symbol": "REEF",
-    "amount": 17270066.9005325,
-    "numHolders": 1,
-    "usdValue": 165700.59
-  },
-  {
-    "name": "Index",
-    "symbol": "INDEX",
-    "amount": 13449.04117683,
-    "numHolders": 1,
-    "usdValue": 152364.95
-  },
-  {
-    "name": "Dragon",
-    "symbol": "DRGN",
-    "amount": 3599915.0035,
-    "numHolders": 1,
-    "usdValue": 150845.94
-  },
-  {
-    "name": "BOB Token",
-    "symbol": "BOB",
-    "amount": 31569521.2307767,
-    "numHolders": 1,
-    "usdValue": 146714.93
-  },
-  {
-    "name": "Meta",
-    "symbol": "MTA",
-    "amount": 353302.47,
-    "numHolders": 1,
-    "usdValue": 145650.71
-  },
-  {
-    "name": "0xBitcoin Token",
-    "symbol": "0xBTC",
-    "amount": 137869.42293475,
-    "numHolders": 1,
-    "usdValue": 125672.39
-  },
-  {
-    "name": "Fuse Token",
-    "symbol": "FUSE",
-    "amount": 370894,
-    "numHolders": 1,
-    "usdValue": 124500.59
-  },
-  {
-    "name": "LML",
-    "symbol": "LML",
-    "amount": 5231754,
-    "numHolders": 1,
-    "usdValue": 123126.91
-  },
-  {
-    "name": "O3 Swap Token",
-    "symbol": "O3",
-    "amount": 342641.577462553,
-    "numHolders": 1,
-    "usdValue": 114277.82
-  },
-  {
-    "name": "CosplayToken",
-    "symbol": "COT",
-    "amount": 1212088.989,
-    "numHolders": 1,
-    "usdValue": 112383.68
-  },
-  {
-    "name": "BiLira",
-    "symbol": "TRYb",
-    "amount": 1637789.899824,
-    "numHolders": 2,
-    "usdValue": 111329
-  },
-  {
-    "name": "Pendle",
-    "symbol": "PENDLE",
-    "amount": 774037.35210627,
-    "numHolders": 1,
-    "usdValue": 111287.99
-  },
-  {
-    "name": "DigitexFutures",
-    "symbol": "DGTX",
-    "amount": 816800002.04273,
-    "numHolders": 1,
-    "usdValue": 102279.7
-  },
-  {
-    "name": "Guaranteed Entrance Token",
-    "symbol": "GET",
-    "amount": 45104.41745388,
-    "numHolders": 1,
-    "usdValue": 101033.9
-  },
-  {
+  "AURORA": {
     "name": "Aurora",
     "symbol": "AURORA",
     "amount": 8603.98017885,
     "numHolders": 1,
-    "usdValue": 99203.89
+    "usdValue": 95160.02
   },
-  {
-    "name": "Flex Ungovernance Token",
-    "symbol": "FLX",
-    "amount": 1197.37044729,
-    "numHolders": 2,
-    "usdValue": 98356.31
+  "AXS": {
+    "name": "Axie Infinity Shard",
+    "symbol": "AXS",
+    "amount": 602220.32668032,
+    "numHolders": 19,
+    "usdValue": 31010734.71
   },
-  {
-    "name": "NAGA Coin",
-    "symbol": "NGC",
-    "amount": 214425.57227122,
+  "BADGER": {
+    "name": "Badger",
+    "symbol": "BADGER",
+    "amount": 320154.33129048,
+    "numHolders": 5,
+    "usdValue": 2925545.5
+  },
+  "BAL": {
+    "name": "Balancer",
+    "symbol": "BAL",
+    "amount": 134469.96621503003,
+    "numHolders": 12,
+    "usdValue": 2147787.16
+  },
+  "BNT": {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "amount": 261134.33464333997,
+    "numHolders": 13,
+    "usdValue": 598028
+  },
+  "BOND": {
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "amount": 202484.65706256998,
+    "numHolders": 3,
+    "usdValue": 1587399.61
+  },
+  "BOBA": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "amount": 7520116.23427692,
+    "numHolders": 5,
+    "usdValue": 10452961.57
+  },
+  "LINK": {
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "amount": 27125359.00985203,
+    "numHolders": 68,
+    "usdValue": 382664538.12000006
+  },
+  "COMP": {
+    "name": "Compound",
+    "symbol": "COMP",
+    "amount": 228602.82982386998,
+    "numHolders": 38,
+    "usdValue": 33448106.53000001
+  },
+  "CRO": {
+    "name": "Cronos Coin",
+    "symbol": "CRO",
+    "amount": 1506018544.1032002,
+    "numHolders": 8,
+    "usdValue": 628956012.72
+  },
+  "CRV": {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "amount": 8747795.751700452,
+    "numHolders": 23,
+    "usdValue": 20452888.82
+  },
+  "RADAR": {
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "amount": 89747706.8085466,
     "numHolders": 1,
-    "usdValue": 97073.24
+    "usdValue": 1677064.24
   },
-  {
-    "name": "ROOK",
-    "symbol": "ROOK",
-    "amount": 725.07657212,
+  "ELON": {
+    "name": "Dogelon",
+    "symbol": "ELON",
+    "amount": 150977587703902.62,
+    "numHolders": 3,
+    "usdValue": 164565570.6
+  },
+  "DYDX": {
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "amount": 4441851.68043474,
+    "numHolders": 12,
+    "usdValue": 21837632.689999998
+  },
+  "ENS": {
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "amount": 1239458.9594087796,
+    "numHolders": 15,
+    "usdValue": 18372129.990000002
+  },
+  "FXS": {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "amount": 69095.19106215,
+    "numHolders": 5,
+    "usdValue": 2481997.79
+  },
+  "GALA": {
+    "name": "Gala",
+    "symbol": "GALA",
+    "amount": 764898220.2433268,
+    "numHolders": 12,
+    "usdValue": 151033893.03
+  },
+  "GTC": {
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "amount": 71898.4752017,
+    "numHolders": 1,
+    "usdValue": 455836.33
+  },
+  "GRT": {
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "amount": 84023454.53413232,
+    "numHolders": 26,
+    "usdValue": 30855931.91
+  },
+  "ILV": {
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "amount": 82225.45610837999,
+    "numHolders": 3,
+    "usdValue": 44042163.66
+  },
+  "KP3R": {
+    "name": "Keep3rV1",
+    "symbol": "KP3R",
+    "amount": 15981.321778709,
+    "numHolders": 3,
+    "usdValue": 6421201.17
+  },
+  "KNC": {
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "amount": 3539615.7023753203,
+    "numHolders": 14,
+    "usdValue": 15288080.889999999
+  },
+  "LPT": {
+    "name": "Livepeer Token",
+    "symbol": "LPT",
+    "amount": 66732.3293635,
+    "numHolders": 7,
+    "usdValue": 1574107.19
+  },
+  "LRC": {
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "amount": 49769671.848296754,
+    "numHolders": 12,
+    "usdValue": 47906708.57
+  },
+  "MATIC": {
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "amount": 145942187.57764706,
+    "numHolders": 42,
+    "usdValue": 208051661.58
+  },
+  "MDT": {
+    "name": "Measurable Data Token",
+    "symbol": "MDT",
+    "amount": 30176692.99799872,
+    "numHolders": 3,
+    "usdValue": 1723753.57
+  },
+  "MXC": {
+    "name": "MXCToken",
+    "symbol": "MXC",
+    "amount": 1633441920.1318219,
     "numHolders": 2,
-    "usdValue": 92047.84
+    "usdValue": 168798254.58
   },
-  {
+  "NMR": {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "amount": 87063.72486138,
+    "numHolders": 3,
+    "usdValue": 2326646.99
+  },
+  "OXT": {
+    "name": "Orchid",
+    "symbol": "OXT",
+    "amount": 6317040.825935509,
+    "numHolders": 5,
+    "usdValue": 1598505.1
+  },
+  "PERP": {
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "amount": 561900.06347608,
+    "numHolders": 7,
+    "usdValue": 2578292.9
+  },
+  "POWR": {
+    "name": "PowerLedger",
+    "symbol": "POWR",
+    "amount": 24400812.83255,
+    "numHolders": 8,
+    "usdValue": 12559907.39
+  },
+  "RGT": {
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "amount": 13683.539997029999,
+    "numHolders": 2,
+    "usdValue": 207396.99
+  },
+  "REQ": {
+    "name": "Request",
+    "symbol": "REQ",
+    "amount": 29482401.1649476,
+    "numHolders": 6,
+    "usdValue": 6581854.339999999
+  },
+  "RSR": {
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "amount": 849156642.3850436,
+    "numHolders": 5,
+    "usdValue": 11954744.58
+  },
+  "SRM": {
+    "name": "Serum",
+    "symbol": "SRM",
+    "amount": 756902.4954789999,
+    "numHolders": 8,
+    "usdValue": 1861921.85
+  },
+  "SHIB": {
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "amount": 75489186986601.22,
+    "numHolders": 27,
+    "usdValue": 1886613488.1599998
+  },
+  "SLP": {
+    "name": "Smooth Love Potion",
+    "symbol": "SLP",
+    "amount": 925068299.6505271,
+    "numHolders": 5,
+    "usdValue": 16064476.960000003
+  },
+  "SPELL": {
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "amount": 1268520805.9474425,
+    "numHolders": 5,
+    "usdValue": 5340459.15
+  },
+  "SUSHI": {
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "amount": 9998183.10380391,
+    "numHolders": 37,
+    "usdValue": 35037224.949999996
+  },
+  "TRIBE": {
+    "name": "Tribe",
+    "symbol": "TRIBE",
+    "amount": 7377172.6310936995,
+    "numHolders": 5,
+    "usdValue": 4115735
+  },
+  "TRU": {
+    "name": "TrueFi",
+    "symbol": "TRU",
+    "amount": 8291344.06949944,
+    "numHolders": 4,
+    "usdValue": 1645682.33
+  },
+  "UMA": {
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA",
+    "amount": 1125035.9916933097,
+    "numHolders": 13,
+    "usdValue": 7179176.690000001
+  },
+  "UNI": {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "amount": 8927607.072781771,
+    "numHolders": 76,
+    "usdValue": 84232167.09999996
+  },
+  "WBTC": {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "amount": 23337.39049105,
+    "numHolders": 35,
+    "usdValue": 968087554.5500004
+  },
+  "MIR": {
+    "name": "Wrapped MIR Token",
+    "symbol": "MIR",
+    "amount": 598793.17576889,
+    "numHolders": 3,
+    "usdValue": 848899.26
+  },
+  "XYO": {
+    "name": "XY Oracle",
+    "symbol": "XYO",
+    "amount": 328002950.882038,
+    "numHolders": 1,
+    "usdValue": 5890385.23
+  },
+  "YFI": {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "amount": 3167.421960280001,
+    "numHolders": 36,
+    "usdValue": 61149745.97
+  },
+  "ALCX": {
+    "name": "Alchemix",
+    "symbol": "ALCX",
+    "amount": 929.1963558499999,
+    "numHolders": 4,
+    "usdValue": 71492.54
+  },
+  "APE": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "amount": 2524590.28259504,
+    "numHolders": 9,
+    "usdValue": 42013011.25000001
+  },
+  "API3": {
+    "name": "API3",
+    "symbol": "API3",
+    "amount": 1258536.95300453,
+    "numHolders": 4,
+    "usdValue": 1869685.4299999997
+  },
+  "ALI": {
+    "name": "Artificial Liquid Intelligence Token",
+    "symbol": "ALI",
+    "amount": 153000800.376432,
+    "numHolders": 1,
+    "usdValue": 11508414.2
+  },
+  "AUDIO": {
+    "name": "Audius",
+    "symbol": "AUDIO",
+    "amount": 6001951.894371901,
+    "numHolders": 7,
+    "usdValue": 7817296.350000001
+  },
+  "BICO": {
+    "name": "Biconomy Token",
+    "symbol": "BICO",
+    "amount": 763343.17565129,
+    "numHolders": 2,
+    "usdValue": 1124272.06
+  },
+  "CTSI": {
+    "name": "Cartesi Token",
+    "symbol": "CTSI",
+    "amount": 2000000,
+    "numHolders": 1,
+    "usdValue": 712354.98
+  },
+  "C98": {
+    "name": "Coin98",
+    "symbol": "C98",
+    "amount": 326119.4095643198,
+    "numHolders": 1,
+    "usdValue": 520038.79
+  },
+  "CVX": {
+    "name": "Convex Token",
+    "symbol": "CVX",
+    "amount": 311987.11930062,
+    "numHolders": 4,
+    "usdValue": 9326812.07
+  },
+  "COTI": {
     "name": "COTI Token",
     "symbol": "COTI",
-    "amount": 362438.2238472,
+    "amount": 368013.04990902,
     "numHolders": 1,
-    "usdValue": 91585.09
+    "usdValue": 90704.71
   },
-  {
-    "name": "GM",
-    "symbol": "GM",
-    "amount": 4166657768.071664,
+  "BEST": {
+    "name": "Bitpanda Ecosystem Token",
+    "symbol": "BEST",
+    "amount": 455591820.931096,
     "numHolders": 2,
-    "usdValue": 89541.48
+    "usdValue": 363995924.14000005
   },
-  {
-    "name": "Paragons DAO Token",
-    "symbol": "PDT",
-    "amount": 637165.26409951,
+  "AAVE": {
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "amount": 263422.49763988,
+    "numHolders": 42,
+    "usdValue": 49129730.16999999
+  },
+  "ANKR": {
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "amount": 90083747.32076241,
+    "numHolders": 8,
+    "usdValue": 6743899.4799999995
+  },
+  "BAT": {
+    "name": "BAT",
+    "symbol": "BAT",
+    "amount": 102508087.99389204,
+    "numHolders": 46,
+    "usdValue": 78431720.12999998
+  },
+  "CELR": {
+    "name": "CelerToken",
+    "symbol": "CELR",
+    "amount": 567358764.4206654,
+    "numHolders": 5,
+    "usdValue": 29514759.540000003
+  },
+  "MANA": {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "amount": 72296778.71342772,
+    "numHolders": 33,
+    "usdValue": 151850481.26999998
+  },
+  "DENT": {
+    "name": "DENT",
+    "symbol": "DENT",
+    "amount": 3364287163.7916293,
+    "numHolders": 5,
+    "usdValue": 9481114.870000001
+  },
+  "DRGN": {
+    "name": "Dragon",
+    "symbol": "DRGN",
+    "amount": 3599915.0035,
     "numHolders": 1,
-    "usdValue": 89419.14
+    "usdValue": 146308.86
   },
-  {
-    "name": "Trace",
-    "symbol": "TRAC",
-    "amount": 149819.23607958,
+  "ENJ": {
+    "name": "EnjinCoin",
+    "symbol": "ENJ",
+    "amount": 77768993.8938385,
+    "numHolders": 28,
+    "usdValue": 118215430.3
+  },
+  "FTM": {
+    "name": "Fantom Token",
+    "symbol": "FTM",
+    "amount": 72215011.96829888,
+    "numHolders": 16,
+    "usdValue": 85213714.11999999
+  },
+  "FET": {
+    "name": "Fetch",
+    "symbol": "FET",
+    "amount": 29359730.13359534,
+    "numHolders": 5,
+    "usdValue": 9890254.329999998
+  },
+  "FUN": {
+    "name": "FunFair",
+    "symbol": "FUN",
+    "amount": 438355135.4275688,
+    "numHolders": 8,
+    "usdValue": 4727050.569999998
+  },
+  "HOT": {
+    "name": "HoloToken",
+    "symbol": "HOT",
+    "amount": 17164236492.329214,
+    "numHolders": 8,
+    "usdValue": 87507431.92
+  },
+  "MFT": {
+    "name": "Mainframe Token",
+    "symbol": "MFT",
+    "amount": 282100003.055,
+    "numHolders": 3,
+    "usdValue": 2438573.01
+  },
+  "nCash": {
+    "name": "NucleusVision",
+    "symbol": "nCash",
+    "amount": 390000000,
     "numHolders": 2,
-    "usdValue": 88802.59
+    "usdValue": 90542.4
   },
-  {
-    "name": "Quickswap",
-    "symbol": "QUICK",
-    "amount": 460.177,
-    "numHolders": 1,
-    "usdValue": 88731.33
+  "OCEAN": {
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "amount": 20972963.376614127,
+    "numHolders": 9,
+    "usdValue": 11400724.3
   },
-  {
+  "OGN": {
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "amount": 16254378.60097172,
+    "numHolders": 9,
+    "usdValue": 10243420.929999998
+  },
+  "PPT": {
+    "name": "Populous",
+    "symbol": "PPT",
+    "amount": 1843036.83267152,
+    "numHolders": 2,
+    "usdValue": 474646.49
+  },
+  "PUNDIX": {
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "amount": 4377665.76626029,
+    "numHolders": 4,
+    "usdValue": 3911914.46
+  },
+  "QNT": {
+    "name": "Quant",
+    "symbol": "QNT",
+    "amount": 465769.06142847997,
+    "numHolders": 10,
+    "usdValue": 51781726.190000005
+  },
+  "REN": {
+    "name": "Republic",
+    "symbol": "REN",
+    "amount": 21821322.246131144,
+    "numHolders": 14,
+    "usdValue": 8128167.480000001
+  },
+  "RLC": {
+    "name": "RLC",
+    "symbol": "RLC",
+    "amount": 3478685.9729014705,
+    "numHolders": 12,
+    "usdValue": 7140258.53
+  },
+  "SAND": {
+    "name": "SAND",
+    "symbol": "SAND",
+    "amount": 49655587.425275415,
+    "numHolders": 23,
+    "usdValue": 143008091.8
+  },
+  "KEY": {
+    "name": "SelfKey",
+    "symbol": "KEY",
+    "amount": 94588481.7802956,
+    "numHolders": 3,
+    "usdValue": 802066.32
+  },
+  "AGIX": {
+    "name": "SingularityNET Token",
+    "symbol": "AGIX",
+    "amount": 34881968.5468922,
+    "numHolders": 3,
+    "usdValue": 5247882.83
+  },
+  "SRN": {
+    "name": "SIRIN",
+    "symbol": "SRN",
+    "amount": 24958972,
+    "numHolders": 2,
+    "usdValue": 78395.43
+  },
+  "SXP": {
+    "name": "Swipe",
+    "symbol": "SXP",
+    "amount": 650875.03981536,
+    "numHolders": 2,
+    "usdValue": 872181.54
+  },
+  "SNX": {
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "amount": 1165326.3155979,
+    "numHolders": 24,
+    "usdValue": 7606440.490000002
+  },
+  "TEL": {
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "amount": 1175814157.08,
+    "numHolders": 2,
+    "usdValue": 6920954.93
+  },
+  "UBT": {
+    "name": "UniBright",
+    "symbol": "UBT",
+    "amount": 1446068.67452515,
+    "numHolders": 2,
+    "usdValue": 1090230.63
+  },
+  "UTK": {
+    "name": "Utrust Token",
+    "symbol": "UTK",
+    "amount": 39588283.0525617,
+    "numHolders": 3,
+    "usdValue": 9906912.86
+  },
+  "ZRX": {
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "amount": 20696852.101130776,
+    "numHolders": 33,
+    "usdValue": 22953895.720000006
+  },
+  "MKR": {
+    "name": "Maker",
+    "symbol": "MKR",
+    "amount": 41775.44914902999,
+    "numHolders": 48,
+    "usdValue": 76106819.24999999
+  },
+  "CANDY": {
     "name": "CANDY",
     "symbol": "CANDY",
     "amount": 2402128976,
     "numHolders": 3,
     "usdValue": 86135.54000000001
   },
-  {
-    "name": "HYDRO TOKEN",
-    "symbol": "HYDRO",
-    "amount": 11183612.5304844,
-    "numHolders": 1,
-    "usdValue": 83103.64
-  },
-  {
-    "name": "SIRIN",
-    "symbol": "SRN",
-    "amount": 24958972,
-    "numHolders": 2,
-    "usdValue": 82053.92
-  },
-  {
-    "name": "TenXPay",
-    "symbol": "PAY",
-    "amount": 2047580.2153255302,
-    "numHolders": 5,
-    "usdValue": 81597.85
-  },
-  {
-    "name": "Experty Wisdom Token",
-    "symbol": "WIS",
-    "amount": 2313840,
-    "numHolders": 1,
-    "usdValue": 81536.53
-  },
-  {
-    "name": "HYVE",
-    "symbol": "HYVE",
-    "amount": 553165.44785284,
-    "numHolders": 1,
-    "usdValue": 79675.74
-  },
-  {
-    "name": "Sperax",
-    "symbol": "SPA",
-    "amount": 510181,
-    "numHolders": 1,
-    "usdValue": 78661.12
-  },
-  {
-    "name": "Mass Vehicle Ledger Token",
-    "symbol": "MVL",
-    "amount": 7275511.96440571,
-    "numHolders": 1,
-    "usdValue": 77698.98
-  },
-  {
-    "name": "PoolTogether",
-    "symbol": "POOL",
-    "amount": 37390.215756599995,
-    "numHolders": 3,
-    "usdValue": 76649.94
-  },
-  {
-    "name": "Alchemix",
-    "symbol": "ALCX",
-    "amount": 929.1963558499999,
-    "numHolders": 4,
-    "usdValue": 73700.74
-  },
-  {
-    "name": "Dusk Network",
-    "symbol": "DUSK",
-    "amount": 206303.89990649,
-    "numHolders": 1,
-    "usdValue": 72991.35
-  },
-  {
-    "name": "Unisocks Edition 0",
-    "symbol": "SOCKS",
-    "amount": 1,
-    "numHolders": 1,
-    "usdValue": 72032
-  },
-  {
-    "name": "Hiveterminal Token",
-    "symbol": "HVN",
-    "amount": 8623604.62311326,
-    "numHolders": 2,
-    "usdValue": 71770.29000000001
-  },
-  {
-    "name": "Vision Token",
-    "symbol": "VISION",
-    "amount": 50763.61885353,
-    "numHolders": 1,
-    "usdValue": 70067.11
-  },
-  {
-    "name": "Veritaseum",
-    "symbol": "VERI",
-    "amount": 1500,
-    "numHolders": 1,
-    "usdValue": 67590
-  },
-  {
-    "name": "NucleusVision",
-    "symbol": "nCash",
-    "amount": 290000000,
-    "numHolders": 2,
-    "usdValue": 66578.2
-  },
-  {
-    "name": "AMLT",
-    "symbol": "AMLT",
-    "amount": 7212333.38967133,
-    "numHolders": 2,
-    "usdValue": 65788.36
-  },
-  {
-    "name": "Reserve",
-    "symbol": "RSV",
-    "amount": 60979.2290065,
-    "numHolders": 1,
-    "usdValue": 60918.55
-  },
-  {
-    "name": "SOS",
-    "symbol": "SOS",
-    "amount": 46472346192.0596,
-    "numHolders": 1,
-    "usdValue": 60878.77
-  },
-  {
-    "name": "DEXA COIN",
-    "symbol": "DEXA",
-    "amount": 126365350.657385,
-    "numHolders": 1,
-    "usdValue": 60051.03
-  },
-  {
-    "name": "PAR Stablecoin",
-    "symbol": "PAR",
-    "amount": 54114.56417528,
-    "numHolders": 2,
-    "usdValue": 57848.47
-  },
-  {
-    "name": "Edgeless",
-    "symbol": "EDG",
-    "amount": 2420000,
-    "numHolders": 2,
-    "usdValue": 56952.95
-  },
-  {
-    "name": "FLOKI",
-    "symbol": "FLOKI",
-    "amount": 1947000000,
-    "numHolders": 1,
-    "usdValue": 56073.6
-  },
-  {
-    "name": "ELF",
-    "symbol": "ELF",
-    "amount": 160506.6,
-    "numHolders": 3,
-    "usdValue": 54214.44
-  },
-  {
-    "name": "RHOC",
-    "symbol": "RHOC",
-    "amount": 876117.50085809,
-    "numHolders": 5,
-    "usdValue": 54139.75
-  },
-  {
-    "name": "ASSEMBLE",
-    "symbol": "ASM",
-    "amount": 1029384.8144637,
-    "numHolders": 1,
-    "usdValue": 50458.38
-  },
-  {
-    "name": "PumaPay",
-    "symbol": "PMA",
-    "amount": 787939630,
-    "numHolders": 1,
-    "usdValue": 49435.33
-  },
-  {
-    "name": "Neumark",
-    "symbol": "NEU",
-    "amount": 774906.0951,
-    "numHolders": 1,
-    "usdValue": 46812.08
-  },
-  {
-    "name": "Amon",
-    "symbol": "AMN",
-    "amount": 38650049.3023269,
-    "numHolders": 1,
-    "usdValue": 46310.1
-  },
-  {
-    "name": "3X Long Bitcoin Token",
-    "symbol": "BULL",
-    "amount": 21.88719077,
-    "numHolders": 1,
-    "usdValue": 46005.56
-  },
-  {
-    "name": "Gifto",
-    "symbol": "GTO",
-    "amount": 999999,
-    "numHolders": 1,
-    "usdValue": 44159.98
-  },
-  {
-    "name": "EDDA",
-    "symbol": "EDDA",
-    "amount": 100.91248096,
-    "numHolders": 1,
-    "usdValue": 42462.47
-  },
-  {
-    "name": "OpenANX",
-    "symbol": "OAX",
-    "amount": 399999.987,
-    "numHolders": 1,
-    "usdValue": 41035.6
-  },
-  {
-    "name": "DefiPulse Index",
-    "symbol": "DPI",
-    "amount": 226.04060559,
-    "numHolders": 1,
-    "usdValue": 40764.53
-  },
-  {
-    "name": "FARM Reward Token",
-    "symbol": "FARM",
-    "amount": 411.4772194,
-    "numHolders": 1,
-    "usdValue": 39443.82
-  },
-  {
-    "name": "KEEP Token",
-    "symbol": "KEEP",
-    "amount": 71155.9570112,
-    "numHolders": 2,
-    "usdValue": 39314.85
-  },
-  {
-    "name": "Flixx",
-    "symbol": "FLIXX",
-    "amount": 5690853.19847118,
-    "numHolders": 1,
-    "usdValue": 38345.65
-  },
-  {
+  "REPv2": {
     "name": "Reputation",
-    "symbol": "REP",
-    "amount": 2670.9628137299997,
-    "numHolders": 2,
-    "usdValue": 37133.869999999995
+    "symbol": "REPv2",
+    "amount": 556343.895660326,
+    "numHolders": 11,
+    "usdValue": 6047480.49
   },
-  {
-    "name": "DACSEE",
-    "symbol": "DACS",
-    "amount": 48318566.4148671,
-    "numHolders": 1,
-    "usdValue": 36251.97
-  },
-  {
-    "name": "digitalbits",
-    "symbol": "XDB",
-    "amount": 104847.177,
-    "numHolders": 1,
-    "usdValue": 34865.78
-  },
-  {
-    "name": "Wrapped Centrifuge",
-    "symbol": "wCFG",
-    "amount": 60143.961101789995,
-    "numHolders": 2,
-    "usdValue": 33030.32
-  },
-  {
-    "name": "Caspian Token",
-    "symbol": "CSP",
-    "amount": 5641049,
-    "numHolders": 1,
-    "usdValue": 31653.22
-  },
-  {
-    "name": "Muzika",
-    "symbol": "MZK",
-    "amount": 5049200,
-    "numHolders": 1,
-    "usdValue": 30705.14
-  },
-  {
+  "xSUSHI": {
     "name": "SushiBar",
     "symbol": "xSUSHI",
     "amount": 6989.7645116,
     "numHolders": 1,
-    "usdValue": 29637.26
+    "usdValue": 31563.62
   },
-  {
-    "name": "Quantum",
-    "symbol": "QAU",
-    "amount": 630000,
+  "WETH": {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "amount": 40429.688388719995,
+    "numHolders": 26,
+    "usdValue": 124805100.04
+  },
+  "CHZ": {
+    "name": "chiliZ",
+    "symbol": "CHZ",
+    "amount": 651885999.6837425,
+    "numHolders": 16,
+    "usdValue": 148779394.02
+  },
+  "WOO": {
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "amount": 73043054.22462012,
+    "numHolders": 3,
+    "usdValue": 34767170.5
+  },
+  "DG": {
+    "name": "DeGate Token",
+    "symbol": "DG",
+    "amount": 1481224.52391438,
     "numHolders": 1,
-    "usdValue": 28636.27
+    "usdValue": 230327.45
   },
-  {
+  "DAI": {
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "amount": 198891045.29707876,
+    "numHolders": 39,
+    "usdValue": 198757418.00000006
+  },
+  "NEXO": {
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "amount": 50844930.687115535,
+    "numHolders": 3,
+    "usdValue": 118468688.49
+  },
+  "USDP": {
+    "name": "Pax Dollar",
+    "symbol": "USDP",
+    "amount": 43852378.1216593,
+    "numHolders": 13,
+    "usdValue": 43852378.13
+  },
+  "PAXG": {
+    "name": "Paxos Gold",
+    "symbol": "PAXG",
+    "amount": 10773.54085252,
+    "numHolders": 9,
+    "usdValue": 21146225.939999998
+  },
+  "TKN": {
+    "name": "Monolith",
+    "symbol": "TKN",
+    "amount": 945837.8319999999,
+    "numHolders": 5,
+    "usdValue": 169310.64
+  },
+  "RHOC": {
+    "name": "RHOC",
+    "symbol": "RHOC",
+    "amount": 876117.50085809,
+    "numHolders": 5,
+    "usdValue": 54337.39000000001
+  },
+  "GHST": {
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "amount": 1126396.71179,
+    "numHolders": 3,
+    "usdValue": 2039918.44
+  },
+  "AST": {
+    "name": "AirSwap",
+    "symbol": "AST",
+    "amount": 4587241.3733,
+    "numHolders": 2,
+    "usdValue": 684458.1
+  },
+  "AKRO": {
+    "name": "Akropolis",
+    "symbol": "AKRO",
+    "amount": 55743557,
+    "numHolders": 1,
+    "usdValue": 662888.36
+  },
+  "ALICE": {
+    "name": "ALICE",
+    "symbol": "ALICE",
+    "amount": 2371194.647612,
+    "numHolders": 3,
+    "usdValue": 16266395.28
+  },
+  "APPC": {
+    "name": "AppCoins",
+    "symbol": "APPC",
+    "amount": 5423522.01938037,
+    "numHolders": 2,
+    "usdValue": 24740.71
+  },
+  "ANT": {
+    "name": "Aragon Network Token",
+    "symbol": "ANT",
+    "amount": 1347198.6397835,
+    "numHolders": 4,
+    "usdValue": 5997911.569999998
+  },
+  "ATA": {
+    "name": "Automata",
+    "symbol": "ATA",
+    "amount": 15355585.1605368,
+    "numHolders": 1,
+    "usdValue": 5989707.04
+  },
+  "BEL": {
+    "name": "Bella",
+    "symbol": "BEL",
+    "amount": 2598471.83874024,
+    "numHolders": 2,
+    "usdValue": 2278345.91
+  },
+  "BETA": {
+    "name": "Beta Token",
+    "symbol": "BETA",
+    "amount": 5553439.34052846,
+    "numHolders": 2,
+    "usdValue": 2205333.7199999997
+  },
+  "BUSD": {
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "amount": 759439745.329211,
+    "numHolders": 8,
+    "usdValue": 759373885.0699999
+  },
+  "BLZ": {
+    "name": "Bluzelle",
+    "symbol": "BLZ",
+    "amount": 12025909.9232332,
+    "numHolders": 2,
+    "usdValue": 1963412.92
+  },
+  "BRD": {
+    "name": "Bread",
+    "symbol": "BRD",
+    "amount": 2683282.45888078,
+    "numHolders": 2,
+    "usdValue": 521968.64999999997
+  },
+  "CHR": {
+    "name": "Chroma",
+    "symbol": "CHR",
+    "amount": 41142557.088782,
+    "numHolders": 3,
+    "usdValue": 17807069.84
+  },
+  "CND": {
+    "name": "Cindicator",
+    "symbol": "CND",
+    "amount": 16672014.8612149,
+    "numHolders": 1,
+    "usdValue": 14522.16
+  },
+  "CVC": {
+    "name": "Civic",
+    "symbol": "CVC",
+    "amount": 9994774.29977304,
+    "numHolders": 9,
+    "usdValue": 2910196.740000001
+  },
+  "CREAM": {
+    "name": "Cream",
+    "symbol": "CREAM",
+    "amount": 305475.17207058,
+    "numHolders": 4,
+    "usdValue": 14331613.959999999
+  },
+  "DLT": {
+    "name": "Delta",
+    "symbol": "DLT",
+    "amount": 6549623.68416122,
+    "numHolders": 1,
+    "usdValue": 11823.9
+  },
+  "DIA": {
+    "name": "DIAToken",
+    "symbol": "DIA",
+    "amount": 6034449.2580083,
+    "numHolders": 5,
+    "usdValue": 5501593.850000001
+  },
+  "DNT": {
+    "name": "district0x",
+    "symbol": "DNT",
+    "amount": 10246036.015939932,
+    "numHolders": 5,
+    "usdValue": 1199990.45
+  },
+  "DODO": {
+    "name": "DODO bird",
+    "symbol": "DODO",
+    "amount": 9557380.81001301,
+    "numHolders": 4,
+    "usdValue": 4141908.5
+  },
+  "DREP": {
+    "name": "DREP",
+    "symbol": "DREP",
+    "amount": 6436932.11314123,
+    "numHolders": 1,
+    "usdValue": 6190178.76
+  },
+  "EZ": {
+    "name": "EASY V2",
+    "symbol": "EZ",
+    "amount": 394835.41661969,
+    "numHolders": 1,
+    "usdValue": 817309.31
+  },
+  "EVX": {
+    "name": "Everex",
+    "symbol": "EVX",
+    "amount": 1398829,
+    "numHolders": 1,
+    "usdValue": 24950.47
+  },
+  "GLM": {
+    "name": "Golem Network Token",
+    "symbol": "GLM",
+    "amount": 10819646.1052957,
+    "numHolders": 7,
+    "usdValue": 4704025.45
+  },
+  "IOST": {
+    "name": "IOSToken",
+    "symbol": "IOST",
+    "amount": 137000000,
+    "numHolders": 2,
+    "usdValue": 4197325.79
+  },
+  "LBA": {
+    "name": "LibraToken",
+    "symbol": "LBA",
+    "amount": 2205742,
+    "numHolders": 1,
+    "usdValue": 6077.19
+  },
+  "LIT": {
+    "name": "Litentry",
+    "symbol": "LIT",
+    "amount": 1985981.60309622,
+    "numHolders": 1,
+    "usdValue": 2820093.88
+  },
+  "POND": {
+    "name": "Marlin POND",
+    "symbol": "POND",
+    "amount": 14467126,
+    "numHolders": 1,
+    "usdValue": 419733.14
+  },
+  "MASK": {
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "amount": 272263.7107888,
+    "numHolders": 3,
+    "usdValue": 1219919.82
+  },
+  "MLN": {
+    "name": "Melon Token",
+    "symbol": "MLN",
+    "amount": 30370.24231,
+    "numHolders": 6,
+    "usdValue": 1732797.3599999999
+  },
+  "NKN": {
+    "name": "NKN",
+    "symbol": "NKN",
+    "amount": 7174124.98132049,
+    "numHolders": 4,
+    "usdValue": 1554029.08
+  },
+  "PERL": {
+    "name": "Perlin",
+    "symbol": "PERL",
+    "amount": 10028364.4798831,
+    "numHolders": 1,
+    "usdValue": 451754.65
+  },
+  "PNT": {
+    "name": "pNetwork Token",
+    "symbol": "PNT",
+    "amount": 2853611.27968729,
+    "numHolders": 2,
+    "usdValue": 1610042.55
+  },
+  "POLS": {
+    "name": "PolkastarterToken",
+    "symbol": "POLS",
+    "amount": 660393.1796043001,
+    "numHolders": 2,
+    "usdValue": 894054.6
+  },
+  "POLY": {
+    "name": "Polymath",
+    "symbol": "POLY",
+    "amount": 8859247.89447114,
+    "numHolders": 3,
+    "usdValue": 3746686.26
+  },
+  "XPR": {
+    "name": "Proton",
+    "symbol": "XPR",
+    "amount": 583213.9269,
+    "numHolders": 1,
+    "usdValue": 6338.06
+  },
+  "QKC": {
+    "name": "QuarkChain Token",
+    "symbol": "QKC",
+    "amount": 38000000,
+    "numHolders": 1,
+    "usdValue": 824350.72
+  },
+  "RDN": {
+    "name": "Raiden",
+    "symbol": "RDN",
+    "amount": 2164728.33381176,
+    "numHolders": 3,
+    "usdValue": 243208.90999999997
+  },
+  "RNDR": {
+    "name": "Render Token",
+    "symbol": "RNDR",
+    "amount": 13706176.836522918,
+    "numHolders": 7,
+    "usdValue": 28446998.189999998
+  },
+  "IDRT": {
+    "name": "Rupiah Token",
+    "symbol": "IDRT",
+    "amount": 3000034073.56,
+    "numHolders": 2,
+    "usdValue": 212946.72
+  },
+  "SNT": {
+    "name": "StatusNetwork",
+    "symbol": "SNT",
+    "amount": 47395958.08425721,
+    "numHolders": 9,
+    "usdValue": 3134070.77
+  },
+  "STORJ": {
+    "name": "Storj",
+    "symbol": "STORJ",
+    "amount": 2756289.8233933398,
+    "numHolders": 12,
+    "usdValue": 3307547.789999999
+  },
+  "STMX": {
+    "name": "StormX",
+    "symbol": "STMX",
+    "amount": 1399436370.6942036,
+    "numHolders": 3,
+    "usdValue": 27416077.970000003
+  },
+  "STPT": {
+    "name": "STPT",
+    "symbol": "STPT",
+    "amount": 6173442.22324758,
+    "numHolders": 1,
+    "usdValue": 568345.61
+  },
+  "DATA": {
+    "name": "Streamr",
+    "symbol": "DATA",
+    "amount": 10100000.000039,
+    "numHolders": 2,
+    "usdValue": 772757
+  },
+  "sUSD": {
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "amount": 776508,
+    "numHolders": 1,
+    "usdValue": 772888.7
+  },
+  "TRB": {
+    "name": "Tellor Tributes",
+    "symbol": "TRB",
+    "amount": 259960.0281725,
+    "numHolders": 5,
+    "usdValue": 5605394.510000001
+  },
+  "PROM": {
+    "name": "Token Prometeus Network",
+    "symbol": "PROM",
+    "amount": 523837.14829255,
+    "numHolders": 1,
+    "usdValue": 4761679.68
+  },
+  "TCT": {
+    "name": "TokenClub Token",
+    "symbol": "TCT",
+    "amount": 99477041.0558822,
+    "numHolders": 1,
+    "usdValue": 2468980.37
+  },
+  "BZZ": {
+    "name": "BZZ",
+    "symbol": "BZZ",
+    "amount": 4127862.1489729,
+    "numHolders": 7,
+    "usdValue": 5266588.970000001
+  },
+  "BTB": {
+    "name": "BitBall",
+    "symbol": "BTB",
+    "amount": 1494341.17396425,
+    "numHolders": 1,
+    "usdValue": 2766.68
+  },
+  "BNB": {
     "name": "BNB",
     "symbol": "BNB",
     "amount": 60.180816570000005,
     "numHolders": 4,
     "usdValue": 26651.59
   },
-  {
-    "name": "AppCoins",
-    "symbol": "APPC",
-    "amount": 5423522.01938037,
+  "Dentac...": {
+    "name": "Dentacoin",
+    "symbol": "Dentac...",
+    "amount": 132617031,
+    "numHolders": 1,
+    "usdValue": 1401.76
+  },
+  "SWM": {
+    "name": "SWARM",
+    "symbol": "SWM",
+    "amount": 58766.01,
+    "numHolders": 1,
+    "usdValue": 1034.5
+  },
+  "TUSD": {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "amount": 33738208.3992119,
+    "numHolders": 9,
+    "usdValue": 33738208.4
+  },
+  "MPL": {
+    "name": "Maple Token",
+    "symbol": "MPL",
+    "amount": 5200,
+    "numHolders": 1,
+    "usdValue": 276120
+  },
+  "SPANK": {
+    "name": "SPANK",
+    "symbol": "SPANK",
+    "amount": 41151578,
+    "numHolders": 1,
+    "usdValue": 398855.91
+  },
+  "EFI": {
+    "name": "Efinity Token",
+    "symbol": "EFI",
+    "amount": 952863.06724076,
     "numHolders": 2,
-    "usdValue": 25923.149999999998
+    "usdValue": 443538.17000000004
   },
-  {
-    "name": "Bond Appetite USD",
-    "symbol": "USDap",
-    "amount": 28453.05919842,
+  "wDGLD": {
+    "name": "wrapped-DGLD",
+    "symbol": "wDGLD",
+    "amount": 6033.23893286,
     "numHolders": 1,
-    "usdValue": 25645.25
+    "usdValue": 1154641.27
   },
-  {
-    "name": "Capsule Coin",
-    "symbol": "CAPS",
-    "amount": 600571.53804762,
+  "AMLT": {
+    "name": "AMLT",
+    "symbol": "AMLT",
+    "amount": 7212333.38967133,
+    "numHolders": 2,
+    "usdValue": 67410.65
+  },
+  "BOB": {
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "amount": 31569521.2307767,
     "numHolders": 1,
-    "usdValue": 25527.5
+    "usdValue": 147533.53
   },
-  {
-    "name": "CoinDash Token",
-    "symbol": "CDT",
-    "amount": 199464.78915524,
+  "WIS": {
+    "name": "Experty Wisdom Token",
+    "symbol": "WIS",
+    "amount": 2313840,
     "numHolders": 1,
-    "usdValue": 25505.96
+    "usdValue": 81650.48
   },
-  {
-    "name": "Dopex Governance Token",
-    "symbol": "DPX",
-    "amount": 20,
+  "NEU": {
+    "name": "Neumark",
+    "symbol": "NEU",
+    "amount": 774906.0951,
     "numHolders": 1,
-    "usdValue": 25306.2
+    "usdValue": 48888.05
   },
-  {
-    "name": "WaBi",
-    "symbol": "WaBi",
-    "amount": 236679.82649962,
+  "PAY": {
+    "name": "TenXPay",
+    "symbol": "PAY",
+    "amount": 2047580.2153255302,
+    "numHolders": 5,
+    "usdValue": 82217.55
+  },
+  "BCP": {
+    "name": "BlockchainPoland",
+    "symbol": "BCP",
+    "amount": 16230403.1009891,
     "numHolders": 1,
-    "usdValue": 25271.25
+    "usdValue": 303397.52
   },
-  {
-    "name": "Everex",
-    "symbol": "EVX",
-    "amount": 1398829,
+  "GAME": {
+    "name": "GAME Credits",
+    "symbol": "GAME",
+    "amount": 26510746,
     "numHolders": 1,
-    "usdValue": 24897.2
+    "usdValue": 1845598.6
   },
-  {
-    "name": "SwarmCity",
-    "symbol": "SWT",
-    "amount": 100000,
+  "LML": {
+    "name": "LML",
+    "symbol": "LML",
+    "amount": 5231754,
     "numHolders": 1,
-    "usdValue": 24742
+    "usdValue": 123126.91
   },
-  {
-    "name": "AlpaToken",
-    "symbol": "ALPA",
-    "amount": 289252.27527063,
+  "MCO2": {
+    "name": "Moss Carbon Credit",
+    "symbol": "MCO2",
+    "amount": 148334.5004522,
     "numHolders": 1,
-    "usdValue": 23705.87
+    "usdValue": 1480378.31
   },
-  {
-    "name": "VIDT Datalink",
-    "symbol": "VIDT",
-    "amount": 50000,
+  "WBX": {
+    "name": "WiBX Utility Token",
+    "symbol": "WBX",
+    "amount": 1556464845.50146,
     "numHolders": 1,
-    "usdValue": 21931.85
+    "usdValue": 11647680.15
   },
-  {
-    "name": "Hegic",
-    "symbol": "HEGIC",
-    "amount": 1350846.82,
+  "POOL": {
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "amount": 37390.215756599995,
+    "numHolders": 3,
+    "usdValue": 74032.62
+  },
+  "aKNC": {
+    "name": "Aave Interest bearing KNC",
+    "symbol": "aKNC",
+    "amount": 296.33994969,
     "numHolders": 1,
-    "usdValue": 21630.07
+    "usdValue": 1292.04
   },
-  {
-    "name": "LockTrip",
-    "symbol": "LOC",
-    "amount": 8326.63110211,
+  "aLINK": {
+    "name": "Aave Interest bearing LINK",
+    "symbol": "aLINK",
+    "amount": 105.18912871,
     "numHolders": 1,
-    "usdValue": 21565.97
+    "usdValue": 1478.96
   },
-  {
-    "name": "STAKE",
-    "symbol": "STAKE",
-    "amount": 1756.57997262,
-    "numHolders": 1,
-    "usdValue": 20077.71
+  "cETH": {
+    "name": "Compound Ether",
+    "symbol": "cETH",
+    "amount": 4214904.24931876,
+    "numHolders": 4,
+    "usdValue": 260917503.53
   },
-  {
-    "name": "Antimatter.Finance Governance Token",
-    "symbol": "MATTER",
-    "amount": 66666,
-    "numHolders": 1,
-    "usdValue": 19852.8
-  },
-  {
-    "name": "LUSD Stablecoin",
-    "symbol": "LUSD",
-    "amount": 19231.1728927,
-    "numHolders": 1,
-    "usdValue": 19248.47
-  },
-  {
-    "name": "Robotina token",
-    "symbol": "ROX",
-    "amount": 8024750.46067451,
-    "numHolders": 1,
-    "usdValue": 19165.03
-  },
-  {
+  "TORN": {
     "name": "TORN Token",
     "symbol": "TORN",
     "amount": 375.47946556,
     "numHolders": 2,
-    "usdValue": 17843.489999999998
+    "usdValue": 17976.96
   },
-  {
+  "HEX": {
+    "name": "HEX",
+    "symbol": "HEX",
+    "amount": 7958819.62438549,
+    "numHolders": 5,
+    "usdValue": 1034671.89
+  },
+  "AMP": {
+    "name": "Amp",
+    "symbol": "AMP",
+    "amount": 326581373.206244,
+    "numHolders": 7,
+    "usdValue": 7435581.109999999
+  },
+  "CQT": {
+    "name": "Covalent Query Token",
+    "symbol": "CQT",
+    "amount": 3148409.25065828,
+    "numHolders": 2,
+    "usdValue": 1012764.5499999999
+  },
+  "ELF": {
+    "name": "ELF",
+    "symbol": "ELF",
+    "amount": 160506.6,
+    "numHolders": 3,
+    "usdValue": 54954.49
+  },
+  "GUSD": {
+    "name": "Gemini dollar",
+    "symbol": "GUSD",
+    "amount": 2282623.44,
+    "numHolders": 3,
+    "usdValue": 2282052.79
+  },
+  "HUSD": {
+    "name": "HUSD",
+    "symbol": "HUSD",
+    "amount": 40447095.85994528,
+    "numHolders": 4,
+    "usdValue": 40449660.87
+  },
+  "INJ": {
+    "name": "Injective Token",
+    "symbol": "INJ",
+    "amount": 78391.57014607001,
+    "numHolders": 3,
+    "usdValue": 406852.25
+  },
+  "PENDLE": {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "amount": 774037.35210627,
+    "numHolders": 1,
+    "usdValue": 110448.94
+  },
+  "QUICK": {
+    "name": "Quickswap",
+    "symbol": "QUICK",
+    "amount": 460.177,
+    "numHolders": 1,
+    "usdValue": 88059.47
+  },
+  "RARI": {
+    "name": "Rarible",
+    "symbol": "RARI",
+    "amount": 282962.61766602,
+    "numHolders": 5,
+    "usdValue": 2206016.45
+  },
+  "TGBP": {
+    "name": "TrueGBP",
+    "symbol": "TGBP",
+    "amount": 23818559.37,
+    "numHolders": 1,
+    "usdValue": 36592304.94
+  },
+  "XSGD": {
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "amount": 3420072.446291,
+    "numHolders": 2,
+    "usdValue": 2508071.75
+  },
+  "LEO": {
+    "name": "Bitfinex LEO Token",
+    "symbol": "LEO",
+    "amount": 135822.62344599998,
+    "numHolders": 3,
+    "usdValue": 810461.06
+  },
+  "VEE": {
+    "name": "BLOCKv",
+    "symbol": "VEE",
+    "amount": 78629802.4,
+    "numHolders": 1,
+    "usdValue": 250718.2
+  },
+  "RMESH": {
     "name": "RightMesh Token",
     "symbol": "RMESH",
     "amount": 5884957,
     "numHolders": 1,
     "usdValue": 17593.93
   },
-  {
-    "name": "Endor Protocol Token",
-    "symbol": "EDR",
-    "amount": 32359315.4636968,
-    "numHolders": 1,
-    "usdValue": 17152.7
-  },
-  {
-    "name": "ScryDddToken",
-    "symbol": "DDD",
-    "amount": 8000000,
-    "numHolders": 1,
-    "usdValue": 17073.68
-  },
-  {
-    "name": "PieDAO DOUGH v2",
-    "symbol": "DOUGH",
-    "amount": 81038.99256502,
-    "numHolders": 1,
-    "usdValue": 15264.59
-  },
-  {
-    "name": "Bifrost",
-    "symbol": "BFC",
-    "amount": 99664.24693622,
-    "numHolders": 1,
-    "usdValue": 14673.17
-  },
-  {
-    "name": "ElectrifyAsia",
-    "symbol": "ELEC",
-    "amount": 9370777.84614107,
-    "numHolders": 1,
-    "usdValue": 14011.84
-  },
-  {
-    "name": "Cindicator",
-    "symbol": "CND",
-    "amount": 16672014.8612149,
-    "numHolders": 1,
-    "usdValue": 13862.45
-  },
-  {
-    "name": "BaaSid",
-    "symbol": "BAAS",
-    "amount": 11898104.2623811,
-    "numHolders": 1,
-    "usdValue": 13815.36
-  },
-  {
+  "WPR": {
     "name": "WePower",
     "symbol": "WPR",
     "amount": 5999990,
     "numHolders": 1,
-    "usdValue": 13334.38
+    "usdValue": 13373.14
   },
-  {
-    "name": "LON Token",
-    "symbol": "LON",
-    "amount": 12537.321761140001,
+  "NFT": {
+    "name": "NFT Protocol",
+    "symbol": "NFT",
+    "amount": 1333328,
+    "numHolders": 1,
+    "usdValue": 197968.54
+  },
+  "RFOX": {
+    "name": "RFOX",
+    "symbol": "RFOX",
+    "amount": 25229450,
+    "numHolders": 1,
+    "usdValue": 1250323.04
+  },
+  "aWETH": {
+    "name": "Aave interest bearing WETH",
+    "symbol": "aWETH",
+    "amount": 1.00791398,
+    "numHolders": 1,
+    "usdValue": 3103.87
+  },
+  "xDG": {
+    "name": "Decentral Games Governance",
+    "symbol": "xDG",
+    "amount": 17898752.43236997,
+    "numHolders": 3,
+    "usdValue": 3852482.61
+  },
+  "GATE": {
+    "name": "GATE",
+    "symbol": "GATE",
+    "amount": 20499122.12748526,
+    "numHolders": 3,
+    "usdValue": 278490.41000000003
+  },
+  "RPL": {
+    "name": "Rocket Pool",
+    "symbol": "RPL",
+    "amount": 3192599.3886646796,
+    "numHolders": 8,
+    "usdValue": 109253210.88999999
+  },
+  "TOWN": {
+    "name": "TownCoin",
+    "symbol": "TOWN",
+    "amount": 59334997.508,
+    "numHolders": 1,
+    "usdValue": 5686191.48
+  },
+  "OHM": {
+    "name": "Olympus",
+    "symbol": "OHM",
+    "amount": 38.997535,
+    "numHolders": 1,
+    "usdValue": 1105.19
+  },
+  "FTX To...": {
+    "name": "FTX Token",
+    "symbol": "FTX To...",
+    "amount": 1223294.05200579,
+    "numHolders": 9,
+    "usdValue": 52527864.83
+  },
+  "IMX": {
+    "name": "Immutable X",
+    "symbol": "IMX",
+    "amount": 676890.83195126,
+    "numHolders": 4,
+    "usdValue": 1388425.52
+  },
+  "ROOK": {
+    "name": "ROOK",
+    "symbol": "ROOK",
+    "amount": 725.07657212,
     "numHolders": 2,
-    "usdValue": 12379.19
+    "usdValue": 93067.38
   },
-  {
-    "name": "MATH Token",
-    "symbol": "MATH",
-    "amount": 45054.75,
+  "HT": {
+    "name": "HuobiToken",
+    "symbol": "HT",
+    "amount": 215913.2856681,
+    "numHolders": 8,
+    "usdValue": 2043849.7900000003
+  },
+  "ALPA": {
+    "name": "AlpaToken",
+    "symbol": "ALPA",
+    "amount": 289252.27527063,
     "numHolders": 1,
-    "usdValue": 12145.72
+    "usdValue": 24319.33
   },
-  {
-    "name": "ANGLE",
-    "symbol": "ANGLE",
-    "amount": 82178.70137818,
-    "numHolders": 1,
-    "usdValue": 11121.49
-  },
-  {
-    "name": "Delta",
-    "symbol": "DLT",
-    "amount": 6549623.68416122,
-    "numHolders": 1,
-    "usdValue": 10592.97
-  },
-  {
-    "name": "3X Long Ethereum Token",
-    "symbol": "ETHBULL",
-    "amount": 40.47658242,
-    "numHolders": 1,
-    "usdValue": 10302.1
-  },
-  {
-    "name": "CSP DAO",
-    "symbol": "NEBO",
-    "amount": 2501.03355109,
-    "numHolders": 1,
-    "usdValue": 9829.06
-  },
-  {
-    "name": "AVT",
-    "symbol": "AVT",
-    "amount": 3784.656918,
-    "numHolders": 1,
-    "usdValue": 9461.64
-  },
-  {
-    "name": "LAtoken",
-    "symbol": "LA",
-    "amount": 90000,
-    "numHolders": 1,
-    "usdValue": 8776.98
-  },
-  {
-    "name": "veCRV-DAO yVault",
-    "symbol": "yveCRV-DAO",
-    "amount": 5199.00259871,
-    "numHolders": 1,
-    "usdValue": 8682.33
-  },
-  {
-    "name": "DAOstack",
-    "symbol": "GEN",
-    "amount": 399315.9231686,
+  "CUDOS": {
+    "name": "CudosToken",
+    "symbol": "CUDOS",
+    "amount": 9610865.100000989,
     "numHolders": 2,
-    "usdValue": 8381.94
+    "usdValue": 192349.71
   },
-  {
-    "name": "Enigma",
-    "symbol": "ENG",
-    "amount": 243419.835,
+  "EDEN": {
+    "name": "Eden",
+    "symbol": "EDEN",
+    "amount": 3065016.45390944,
+    "numHolders": 3,
+    "usdValue": 877072.84
+  },
+  "NFTD": {
+    "name": "NFTrade Token",
+    "symbol": "NFTD",
+    "amount": 1381179.4467,
     "numHolders": 1,
-    "usdValue": 8284.64
+    "usdValue": 946623.1
   },
-  {
-    "name": "indaHash Coin",
-    "symbol": "IDH",
-    "amount": 2855192.798279,
+  "OCC": {
+    "name": "OCC",
+    "symbol": "OCC",
+    "amount": 2048266.76128579,
     "numHolders": 1,
-    "usdValue": 8268.67
+    "usdValue": 2179355.83
   },
-  {
-    "name": "GazeCoin Metaverse Token",
-    "symbol": "GZE",
-    "amount": 584641.82938338,
+  "PAR": {
+    "name": "PAR Stablecoin",
+    "symbol": "PAR",
+    "amount": 54114.56417528,
+    "numHolders": 2,
+    "usdValue": 58543.72
+  },
+  "CHSB": {
+    "name": "SwissBorg",
+    "symbol": "CHSB",
+    "amount": 601203378.771865,
+    "numHolders": 2,
+    "usdValue": 268135562.69
+  },
+  "UST": {
+    "name": "Wrapped UST Token",
+    "symbol": "UST",
+    "amount": 810549.1282869299,
+    "numHolders": 2,
+    "usdValue": 815407.2100000001
+  },
+  "MIMO": {
+    "name": "MIMO Parallel Governance Token",
+    "symbol": "MIMO",
+    "amount": 112057540.000863,
     "numHolders": 1,
-    "usdValue": 7982.88
+    "usdValue": 7982457.79
   },
-  {
-    "name": "PayPie",
-    "symbol": "PPP",
-    "amount": 1928256.36612134,
+  "cUSDT": {
+    "name": "Compound USDT",
+    "symbol": "cUSDT",
+    "amount": 108556049.96568215,
+    "numHolders": 8,
+    "usdValue": 2366365.17
+  },
+  "BRZ": {
+    "name": "BRZ",
+    "symbol": "BRZ",
+    "amount": 5371678.3769,
     "numHolders": 1,
-    "usdValue": 7937.11
+    "usdValue": 1148131.79
   },
-  {
-    "name": "1World",
-    "symbol": "1WO",
-    "amount": 87961.263389281,
-    "numHolders": 1,
-    "usdValue": 7718.34
-  },
-  {
-    "name": "SeeleToken",
-    "symbol": "Seele",
-    "amount": 1000000,
-    "numHolders": 1,
-    "usdValue": 7454.96
-  },
-  {
-    "name": "Seigniorage Shares",
-    "symbol": "SHARE",
-    "amount": 521418.55458686,
-    "numHolders": 1,
-    "usdValue": 6808.38
-  },
-  {
-    "name": "Cryptobuyer Token",
-    "symbol": "XPT",
-    "amount": 5488774.8526593,
-    "numHolders": 1,
-    "usdValue": 6786.76
-  },
-  {
-    "name": "BTRN",
-    "symbol": "BTRN",
-    "amount": 8176618.92934264,
-    "numHolders": 1,
-    "usdValue": 6379.4
-  },
-  {
-    "name": "MCO",
-    "symbol": "MCO",
-    "amount": 399.46234369,
-    "numHolders": 1,
-    "usdValue": 6370.28
-  },
-  {
-    "name": "Proton",
-    "symbol": "XPR",
-    "amount": 583213.9269,
-    "numHolders": 1,
-    "usdValue": 6353.87
-  },
-  {
-    "name": "FOAM Token",
-    "symbol": "FOAM",
-    "amount": 181263.94210189,
-    "numHolders": 1,
-    "usdValue": 6281.71
-  },
-  {
+  "yDAI+yUSDC+yUSDT+yTUSD": {
     "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
     "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
     "amount": 5464.94570136,
     "numHolders": 1,
     "usdValue": 6230.04
   },
-  {
-    "name": "ChangeNOW",
-    "symbol": "NOW",
-    "amount": 59844.74023987,
+  "stETH": {
+    "name": "stETH",
+    "symbol": "stETH",
+    "amount": 57411.52127597999,
+    "numHolders": 17,
+    "usdValue": 160433475.21
+  },
+  "yveCRV-DAO": {
+    "name": "veCRV-DAO yVault",
+    "symbol": "yveCRV-DAO",
+    "amount": 5199.00259871,
     "numHolders": 1,
-    "usdValue": 6184.71
+    "usdValue": 8630.34
   },
-  {
-    "name": "LibraToken",
-    "symbol": "LBA",
-    "amount": 2205742,
-    "numHolders": 1,
-    "usdValue": 6140.59
+  "wNXM": {
+    "name": "Wrapped NXM",
+    "symbol": "wNXM",
+    "amount": 9785.42996939,
+    "numHolders": 4,
+    "usdValue": 283271.26
   },
-  {
-    "name": "SDOG",
-    "symbol": "SDOG",
-    "amount": 32199238261.9885,
-    "numHolders": 1,
-    "usdValue": 5237.27
-  },
-  {
-    "name": "CryptoFranc",
-    "symbol": "XCHF",
-    "amount": 5000,
-    "numHolders": 1,
-    "usdValue": 5235
-  },
-  {
-    "name": "CRPT",
-    "symbol": "CRPT",
-    "amount": 11563.93663351,
-    "numHolders": 1,
-    "usdValue": 5168.93
-  },
-  {
-    "name": "3X Short Bitcoin Token",
-    "symbol": "BEAR",
-    "amount": 56625342.4,
-    "numHolders": 1,
-    "usdValue": 5143.85
-  },
-  {
-    "name": "Dao.Casino",
-    "symbol": "BET",
-    "amount": 180000,
-    "numHolders": 1,
-    "usdValue": 5085.11
-  },
-  {
-    "name": "Quantstamp",
-    "symbol": "QSP",
-    "amount": 64484.482,
-    "numHolders": 2,
-    "usdValue": 4576.27
-  },
-  {
-    "name": "Sai Stablecoin v1.0",
-    "symbol": "SAI",
-    "amount": 4437.34209528,
-    "numHolders": 1,
-    "usdValue": 4441.78
-  },
-  {
-    "name": "BiFi",
-    "symbol": "BiFi",
-    "amount": 150000,
-    "numHolders": 1,
-    "usdValue": 4362.74
-  },
-  {
-    "name": "Tierion Network Token",
-    "symbol": "TNT",
-    "amount": 350908.902,
-    "numHolders": 1,
-    "usdValue": 4173.27
-  },
-  {
-    "name": "Stox",
-    "symbol": "STX",
-    "amount": 560000,
-    "numHolders": 1,
-    "usdValue": 4144.85
-  },
-  {
+  "BOR": {
     "name": "BoringDAO",
     "symbol": "BOR",
     "amount": 7.68261862,
     "numHolders": 1,
-    "usdValue": 4116.62
+    "usdValue": 2768.97
   },
-  {
-    "name": "Rocket Pool ETH",
-    "symbol": "rETH",
-    "amount": 1.28866033,
+  "stkAAV...": {
+    "name": "stkAAVE",
+    "symbol": "stkAAV...",
+    "amount": 2045.2191716300003,
+    "numHolders": 8,
+    "usdValue": 379421.42
+  },
+  "VISION": {
+    "name": "Vision Token",
+    "symbol": "VISION",
+    "amount": 50763.61885353,
     "numHolders": 1,
-    "usdValue": 4055.75
+    "usdValue": 69764.16
   },
-  {
-    "name": "FIAT DAO Token",
-    "symbol": "FDT",
-    "amount": 35508.63294694,
+  "AMPL": {
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "amount": 204104.53608636,
+    "numHolders": 2,
+    "usdValue": 236316.63
+  },
+  "DIP": {
+    "name": "Decentralized Insurance Protocol",
+    "symbol": "DIP",
+    "amount": 16622912.2699219,
     "numHolders": 1,
-    "usdValue": 3857.91
+    "usdValue": 744198
   },
-  {
-    "name": "Chain",
-    "symbol": "XCN",
-    "amount": 32786.8852459,
+  "LEND": {
+    "name": "EthLend",
+    "symbol": "LEND",
+    "amount": 1488747.37030388,
     "numHolders": 1,
-    "usdValue": 3698.23
+    "usdValue": 2769070.11
   },
-  {
-    "name": "AdEx Network",
-    "symbol": "ADX",
-    "amount": 9320.884,
-    "numHolders": 1,
-    "usdValue": 3571.18
+  "GRID": {
+    "name": "GRID",
+    "symbol": "GRID",
+    "amount": 1614373.6588863,
+    "numHolders": 4,
+    "usdValue": 2082542.0199999998
   },
-  {
-    "name": "Cenfura Token",
-    "symbol": "XCF",
-    "amount": 253600,
-    "numHolders": 1,
-    "usdValue": 3348.66
-  },
-  {
-    "name": "Anchor Neural World Token",
-    "symbol": "ANW",
-    "amount": 115201.14857496,
-    "numHolders": 1,
-    "usdValue": 3273.47
-  },
-  {
-    "name": "BitBall",
-    "symbol": "BTB",
-    "amount": 1494341.17396425,
-    "numHolders": 1,
-    "usdValue": 3270.25
-  },
-  {
-    "name": "Lendingblock",
-    "symbol": "LND",
-    "amount": 1350000,
-    "numHolders": 1,
-    "usdValue": 3142.5
-  },
-  {
-    "name": "Fusion",
-    "symbol": "FSN",
-    "amount": 6684.6134928,
-    "numHolders": 1,
-    "usdValue": 3115.31
-  },
-  {
-    "name": "Aave interest bearing WETH",
-    "symbol": "aWETH",
-    "amount": 1.00791398,
-    "numHolders": 1,
-    "usdValue": 3108.91
-  },
-  {
-    "name": "DICE",
-    "symbol": "ROL",
-    "amount": 6912.582,
-    "numHolders": 1,
-    "usdValue": 3005.62
-  },
-  {
-    "name": "FintruX Network",
-    "symbol": "FTX",
-    "amount": 278969.58608363,
-    "numHolders": 1,
-    "usdValue": 2992.12
-  },
-  {
-    "name": "RipioCreditNetwork",
-    "symbol": "RCN",
-    "amount": 358326.577,
-    "numHolders": 1,
-    "usdValue": 2971.59
-  },
-  {
-    "name": "REVV",
-    "symbol": "REVV",
-    "amount": 30000,
-    "numHolders": 1,
-    "usdValue": 2571.46
-  },
-  {
-    "name": "Morpheus Infrastructure Token",
-    "symbol": "MITx",
-    "amount": 70000,
-    "numHolders": 1,
-    "usdValue": 2377.5
-  },
-  {
-    "name": "LinfinityCoin",
-    "symbol": "LFC",
-    "amount": 56834183.1082682,
-    "numHolders": 1,
-    "usdValue": 2308.6
-  },
-  {
-    "name": "Trustcoin",
-    "symbol": "TRST",
-    "amount": 850000.479621,
-    "numHolders": 1,
-    "usdValue": 2249.64
-  },
-  {
-    "name": "tBTC",
-    "symbol": "TBTC",
-    "amount": 0.04866667,
-    "numHolders": 1,
-    "usdValue": 1989.88
-  },
-  {
-    "name": "CREDITS",
-    "symbol": "CS",
-    "amount": 65030.75,
-    "numHolders": 1,
-    "usdValue": 1929.37
-  },
-  {
-    "name": "Amber",
-    "symbol": "AMB",
-    "amount": 96573.3743,
-    "numHolders": 1,
-    "usdValue": 1755.95
-  },
-  {
-    "name": "Darwinia Network Native Token",
-    "symbol": "RING",
-    "amount": 100000,
-    "numHolders": 1,
-    "usdValue": 1702.32
-  },
-  {
-    "name": "DMarket",
-    "symbol": "DMT",
-    "amount": 150000,
-    "numHolders": 1,
-    "usdValue": 1675.85
-  },
-  {
-    "name": "YAM",
-    "symbol": "YAM",
-    "amount": 7447.1637438,
-    "numHolders": 1,
-    "usdValue": 1606.59
-  },
-  {
-    "name": "Patientory",
-    "symbol": "PTOY",
-    "amount": 211538,
-    "numHolders": 1,
-    "usdValue": 1576.01
-  },
-  {
+  "REX": {
     "name": "imbrex",
     "symbol": "REX",
     "amount": 321242,
     "numHolders": 1,
     "usdValue": 1513.11
   },
-  {
-    "name": "Aave Interest bearing LINK",
-    "symbol": "aLINK",
-    "amount": 105.18912871,
+  "INDEX": {
+    "name": "Index",
+    "symbol": "INDEX",
+    "amount": 13449.04117683,
     "numHolders": 1,
-    "usdValue": 1488.43
+    "usdValue": 159487.02
   },
-  {
-    "name": "WINGS",
-    "symbol": "WINGS",
-    "amount": 100000,
+  "DOUGH": {
+    "name": "PieDAO DOUGH v2",
+    "symbol": "DOUGH",
+    "amount": 81038.99256502,
     "numHolders": 1,
-    "usdValue": 1485.88
+    "usdValue": 15064.82
   },
-  {
-    "name": "Maecenas ART Token",
-    "symbol": "ART",
-    "amount": 576048,
+  "STAKE": {
+    "name": "STAKE",
+    "symbol": "STAKE",
+    "amount": 1756.57997262,
     "numHolders": 1,
-    "usdValue": 1481.67
+    "usdValue": 19638.56
   },
-  {
-    "name": "PILLAR",
-    "symbol": "PLR",
-    "amount": 110017,
+  "FLX": {
+    "name": "Flex Ungovernance Token",
+    "symbol": "FLX",
+    "amount": 1197.37044729,
+    "numHolders": 2,
+    "usdValue": 95991.67
+  },
+  "BIT": {
+    "name": "BitDAO",
+    "symbol": "BIT",
+    "amount": 230046050.84937418,
+    "numHolders": 4,
+    "usdValue": 292158484.58000004
+  },
+  "OAX": {
+    "name": "OpenANX",
+    "symbol": "OAX",
+    "amount": 399999.987,
     "numHolders": 1,
-    "usdValue": 1409.53
+    "usdValue": 41034.4
   },
-  {
-    "name": "HASHGARD",
-    "symbol": "GARD",
-    "amount": 16338141.15,
+  "BAND": {
+    "name": "BandToken",
+    "symbol": "BAND",
+    "amount": 443593.64433767,
+    "numHolders": 4,
+    "usdValue": 1776327.97
+  },
+  "FARM": {
+    "name": "FARM Reward Token",
+    "symbol": "FARM",
+    "amount": 411.4772194,
     "numHolders": 1,
-    "usdValue": 1382.86
+    "usdValue": 40199.57
   },
-  {
-    "name": "Dentacoin",
-    "symbol": "Dentac...",
-    "amount": 132617031,
+  "KEEP": {
+    "name": "KEEP Token",
+    "symbol": "KEEP",
+    "amount": 71155.9570112,
+    "numHolders": 2,
+    "usdValue": 38923.11
+  },
+  "TRAC": {
+    "name": "Trace",
+    "symbol": "TRAC",
+    "amount": 149819.23607958,
+    "numHolders": 2,
+    "usdValue": 91627.72
+  },
+  "vBNT": {
+    "name": "Bancor Governance Token",
+    "symbol": "vBNT",
+    "amount": 689410.13661565,
     "numHolders": 1,
-    "usdValue": 1351.37
+    "usdValue": 1068585.71
   },
-  {
-    "name": "Aave Interest bearing KNC",
-    "symbol": "aKNC",
-    "amount": 296.33994969,
+  "rETH": {
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "amount": 1.28866033,
     "numHolders": 1,
-    "usdValue": 1259.44
+    "usdValue": 4056.3
   },
-  {
+  "cUNI": {
+    "name": "Compound Uniswap",
+    "symbol": "cUNI",
+    "amount": 31884028.4319795,
+    "numHolders": 1,
+    "usdValue": 6082614.26
+  },
+  "PDT": {
+    "name": "Paragons DAO Token",
+    "symbol": "PDT",
+    "amount": 637165.26409951,
+    "numHolders": 1,
+    "usdValue": 90499.77
+  },
+  "SOCKS": {
+    "name": "Unisocks Edition 0",
+    "symbol": "SOCKS",
+    "amount": 1,
+    "numHolders": 1,
+    "usdValue": 71578
+  },
+  "TheDAO": {
+    "name": "TheDAO",
+    "symbol": "TheDAO",
+    "amount": 400000,
+    "numHolders": 1,
+    "usdValue": 12319468.04
+  },
+  "QASH": {
+    "name": "QASH",
+    "symbol": "QASH",
+    "amount": 143070049.88913798,
+    "numHolders": 2,
+    "usdValue": 11167447.66
+  },
+  "MTA": {
+    "name": "Meta",
+    "symbol": "MTA",
+    "amount": 353302.47,
+    "numHolders": 1,
+    "usdValue": 142881.88
+  },
+  "XDEFI": {
+    "name": "XDEFI",
+    "symbol": "XDEFI",
+    "amount": 718183.9694,
+    "numHolders": 2,
+    "usdValue": 769893.22
+  },
+  "MATTER": {
+    "name": "Antimatter.Finance Governance Token",
+    "symbol": "MATTER",
+    "amount": 66666,
+    "numHolders": 1,
+    "usdValue": 20228.46
+  },
+  "CSP": {
+    "name": "Caspian Token",
+    "symbol": "CSP",
+    "amount": 5641049,
+    "numHolders": 1,
+    "usdValue": 35545.81
+  },
+  "WILD": {
+    "name": "Wilder",
+    "symbol": "WILD",
+    "amount": 1808501.59180744,
+    "numHolders": 1,
+    "usdValue": 2199535.43
+  },
+  "LUNA": {
+    "name": "Wrapped LUNA Token",
+    "symbol": "LUNA",
+    "amount": 111062.27917155,
+    "numHolders": 4,
+    "usdValue": 10585972.4
+  },
+  "LON": {
+    "name": "LON Token",
+    "symbol": "LON",
+    "amount": 12537.321761140001,
+    "numHolders": 2,
+    "usdValue": 12328.3
+  },
+  "TLM": {
+    "name": "Alien Worlds Trilium",
+    "symbol": "TLM",
+    "amount": 2669682.05,
+    "numHolders": 1,
+    "usdValue": 272399.99
+  },
+  "MZK": {
+    "name": "Muzika",
+    "symbol": "MZK",
+    "amount": 5049200,
+    "numHolders": 1,
+    "usdValue": 30705.14
+  },
+  "HEGIC": {
+    "name": "Hegic",
+    "symbol": "HEGIC",
+    "amount": 1350846.82,
+    "numHolders": 1,
+    "usdValue": 21516.53
+  },
+  "ICE": {
+    "name": "IceToken",
+    "symbol": "ICE",
+    "amount": 323960.45780113,
+    "numHolders": 3,
+    "usdValue": 690035.77
+  },
+  "KCS": {
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "amount": 27124.4067,
+    "numHolders": 3,
+    "usdValue": 569314.29
+  },
+  "LDO": {
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "amount": 11388867.48580243,
+    "numHolders": 9,
+    "usdValue": 32639446.83
+  },
+  "imBTC": {
     "name": "The Tokenized Bitcoin",
     "symbol": "imBTC",
     "amount": 0.03043634,
     "numHolders": 1,
-    "usdValue": 1258.3
+    "usdValue": 1259.24
   },
-  {
-    "name": "Indorse",
-    "symbol": "IND",
-    "amount": 70053.80954092,
+  "CARD": {
+    "name": "Cardstack",
+    "symbol": "CARD",
+    "amount": 55712787.8489032,
     "numHolders": 1,
-    "usdValue": 1224.89
+    "usdValue": 238974.43
   },
-  {
-    "name": "VeChain",
-    "symbol": "VEN",
-    "amount": 19975.2,
+  "CET": {
+    "name": "CoinEx Token",
+    "symbol": "CET",
+    "amount": 16350579.9791626,
     "numHolders": 1,
-    "usdValue": 1220.64
+    "usdValue": 1064553.56
   },
-  {
+  "DGTX": {
+    "name": "DigitexFutures",
+    "symbol": "DGTX",
+    "amount": 816800002.04273,
+    "numHolders": 1,
+    "usdValue": 109843.26
+  },
+  "DUSK": {
+    "name": "Dusk Network",
+    "symbol": "DUSK",
+    "amount": 206303.89990649,
+    "numHolders": 1,
+    "usdValue": 73362.9
+  },
+  "HYDRO": {
+    "name": "HYDRO TOKEN",
+    "symbol": "HYDRO",
+    "amount": 11183612.5304844,
+    "numHolders": 1,
+    "usdValue": 83157.32
+  },
+  "LFC": {
+    "name": "LinfinityCoin",
+    "symbol": "LFC",
+    "amount": 56834183.1082682,
+    "numHolders": 1,
+    "usdValue": 2312.01
+  },
+  "O3": {
+    "name": "O3 Swap Token",
+    "symbol": "O3",
+    "amount": 342641.577462553,
+    "numHolders": 1,
+    "usdValue": 110852.77
+  },
+  "Seele": {
+    "name": "SeeleToken",
+    "symbol": "Seele",
+    "amount": 1000000,
+    "numHolders": 1,
+    "usdValue": 7375.61
+  },
+  "CUBE": {
+    "name": "Somnium Space Cubes",
+    "symbol": "CUBE",
+    "amount": 35088.31919467,
+    "numHolders": 1,
+    "usdValue": 181609.01
+  },
+  "wCFG": {
+    "name": "Wrapped Centrifuge",
+    "symbol": "wCFG",
+    "amount": 60143.961101789995,
+    "numHolders": 2,
+    "usdValue": 33065.26
+  },
+  "BTR": {
+    "name": "Bitrue Coin",
+    "symbol": "BTR",
+    "amount": 669885869,
+    "numHolders": 1,
+    "usdValue": 171642846.56
+  },
+  "XCN": {
+    "name": "Chain",
+    "symbol": "XCN",
+    "amount": 32786.8852459,
+    "numHolders": 1,
+    "usdValue": 3367.34
+  },
+  "DPI": {
+    "name": "DefiPulse Index",
+    "symbol": "DPI",
+    "amount": 226.04060559,
+    "numHolders": 1,
+    "usdValue": 41683.68
+  },
+  "FDT": {
+    "name": "FIAT DAO Token",
+    "symbol": "FDT",
+    "amount": 35508.63294694,
+    "numHolders": 1,
+    "usdValue": 5751.44
+  },
+  "YAM": {
+    "name": "YAM",
+    "symbol": "YAM",
+    "amount": 7447.1637438,
+    "numHolders": 1,
+    "usdValue": 1583.62
+  },
+  "ROX": {
+    "name": "Robotina token",
+    "symbol": "ROX",
+    "amount": 8024750.46067451,
+    "numHolders": 1,
+    "usdValue": 14584.26
+  },
+  "ROL": {
+    "name": "DICE",
+    "symbol": "ROL",
+    "amount": 6912.582,
+    "numHolders": 1,
+    "usdValue": 3005.62
+  },
+  "CEL": {
+    "name": "Celsius",
+    "symbol": "CEL",
+    "amount": 462508.51269999996,
+    "numHolders": 3,
+    "usdValue": 1026768.91
+  },
+  "renBTC": {
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "amount": 114.73630608,
+    "numHolders": 3,
+    "usdValue": 4760461.84
+  },
+  "HYVE": {
+    "name": "HYVE",
+    "symbol": "HYVE",
+    "amount": 553165.44785284,
+    "numHolders": 1,
+    "usdValue": 80311.88
+  },
+  "AAB": {
+    "name": "AAX Token",
+    "symbol": "AAB",
+    "amount": 17499995,
+    "numHolders": 1,
+    "usdValue": 19424994.45
+  },
+  "cDAI": {
+    "name": "Compound Dai",
+    "symbol": "cDAI",
+    "amount": 52628538.42788432,
+    "numHolders": 7,
+    "usdValue": 1158286.26
+  },
+  "RCN": {
+    "name": "RipioCreditNetwork",
+    "symbol": "RCN",
+    "amount": 358326.577,
+    "numHolders": 1,
+    "usdValue": 3034.47
+  },
+  "TNT": {
+    "name": "Tierion Network Token",
+    "symbol": "TNT",
+    "amount": 350908.902,
+    "numHolders": 1,
+    "usdValue": 2094.14
+  },
+  "1WO": {
+    "name": "1World",
+    "symbol": "1WO",
+    "amount": 87961.263389281,
+    "numHolders": 1,
+    "usdValue": 7528.96
+  },
+  "AMN": {
+    "name": "Amon",
+    "symbol": "AMN",
+    "amount": 38650049.3023269,
+    "numHolders": 1,
+    "usdValue": 46835.74
+  },
+  "BiFi": {
+    "name": "BiFi",
+    "symbol": "BiFi",
+    "amount": 150000,
+    "numHolders": 1,
+    "usdValue": 4317.39
+  },
+  "BFC": {
+    "name": "Bifrost",
+    "symbol": "BFC",
+    "amount": 99664.24693622,
+    "numHolders": 1,
+    "usdValue": 14614.17
+  },
+  "BTRN": {
+    "name": "BTRN",
+    "symbol": "BTRN",
+    "amount": 8176618.92934264,
+    "numHolders": 1,
+    "usdValue": 6379.4
+  },
+  "CRPT": {
+    "name": "CRPT",
+    "symbol": "CRPT",
+    "amount": 11563.93663351,
+    "numHolders": 1,
+    "usdValue": 5152.1
+  },
+  "DACS": {
+    "name": "DACSEE",
+    "symbol": "DACS",
+    "amount": 48318566.4148671,
+    "numHolders": 1,
+    "usdValue": 36251.97
+  },
+  "FTX": {
+    "name": "FintruX Network",
+    "symbol": "FTX",
+    "amount": 278969.58608363,
+    "numHolders": 1,
+    "usdValue": 3000.22
+  },
+  "FLIXX": {
+    "name": "Flixx",
+    "symbol": "FLIXX",
+    "amount": 5690853.19847118,
+    "numHolders": 1,
+    "usdValue": 38345.65
+  },
+  "FLOKI": {
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "amount": 1947000000,
+    "numHolders": 1,
+    "usdValue": 54924.87
+  },
+  "FUSE": {
+    "name": "Fuse Token",
+    "symbol": "FUSE",
+    "amount": 370894,
+    "numHolders": 1,
+    "usdValue": 128466.93
+  },
+  "GZE": {
+    "name": "GazeCoin Metaverse Token",
+    "symbol": "GZE",
+    "amount": 584641.82938338,
+    "numHolders": 1,
+    "usdValue": 8015.3
+  },
+  "GET": {
+    "name": "Guaranteed Entrance Token",
+    "symbol": "GET",
+    "amount": 45104.41745388,
+    "numHolders": 1,
+    "usdValue": 98778.67
+  },
+  "IDH": {
+    "name": "indaHash Coin",
+    "symbol": "IDH",
+    "amount": 2855192.798279,
+    "numHolders": 1,
+    "usdValue": 5883.5
+  },
+  "KRL": {
+    "name": "Kryll",
+    "symbol": "KRL",
+    "amount": 655330.71629367,
+    "numHolders": 1,
+    "usdValue": 550904.42
+  },
+  "LCX": {
+    "name": "LCX",
+    "symbol": "LCX",
+    "amount": 22163793.5686824,
+    "numHolders": 1,
+    "usdValue": 2618807.36
+  },
+  "LND": {
+    "name": "Lendingblock",
+    "symbol": "LND",
+    "amount": 1350000,
+    "numHolders": 1,
+    "usdValue": 3176.93
+  },
+  "MVL": {
+    "name": "Mass Vehicle Ledger Token",
+    "symbol": "MVL",
+    "amount": 7275511.96440571,
+    "numHolders": 1,
+    "usdValue": 79972.5
+  },
+  "MITx": {
+    "name": "Morpheus Infrastructure Token",
+    "symbol": "MITx",
+    "amount": 70000,
+    "numHolders": 1,
+    "usdValue": 2217.94
+  },
+  "PPP": {
+    "name": "PayPie",
+    "symbol": "PPP",
+    "amount": 1928256.36612134,
+    "numHolders": 1,
+    "usdValue": 7937.11
+  },
+  "RSV": {
+    "name": "Reserve",
+    "symbol": "RSV",
+    "amount": 60979.2290065,
+    "numHolders": 1,
+    "usdValue": 60832.56
+  },
+  "ROOBEE": {
+    "name": "ROOBEE",
+    "symbol": "ROOBEE",
+    "amount": 137899382.4197346,
+    "numHolders": 2,
+    "usdValue": 417922.42000000004
+  },
+  "WaBi": {
+    "name": "WaBi",
+    "symbol": "WaBi",
+    "amount": 236679.82649962,
+    "numHolders": 1,
+    "usdValue": 24879.78
+  },
+  "ALBT": {
+    "name": "AllianceBlock Token",
+    "symbol": "ALBT",
+    "amount": 4520358.54356619,
+    "numHolders": 1,
+    "usdValue": 938498.76
+  },
+  "ANCT": {
+    "name": "Anchor",
+    "symbol": "ANCT",
+    "amount": 10096863.0993212,
+    "numHolders": 1,
+    "usdValue": 8040172.47
+  },
+  "ANW": {
+    "name": "Anchor Neural World Token",
+    "symbol": "ANW",
+    "amount": 115201.14857496,
+    "numHolders": 1,
+    "usdValue": 3214.25
+  },
+  "ASM": {
+    "name": "ASSEMBLE",
+    "symbol": "ASM",
+    "amount": 1029384.8144637,
+    "numHolders": 1,
+    "usdValue": 49423.11
+  },
+  "BAAS": {
+    "name": "BaaSid",
+    "symbol": "BAAS",
+    "amount": 11898104.2623811,
+    "numHolders": 1,
+    "usdValue": 16970.86
+  },
+  "TRYb": {
+    "name": "BiLira",
+    "symbol": "TRYb",
+    "amount": 1637789.899824,
+    "numHolders": 2,
+    "usdValue": 110949.01000000001
+  },
+  "CAPS": {
+    "name": "Capsule Coin",
+    "symbol": "CAPS",
+    "amount": 600571.53804762,
+    "numHolders": 1,
+    "usdValue": 23823.52
+  },
+  "XCF": {
+    "name": "Cenfura Token",
+    "symbol": "XCF",
+    "amount": 253600,
+    "numHolders": 1,
+    "usdValue": 3267.57
+  },
+  "COT": {
+    "name": "CosplayToken",
+    "symbol": "COT",
+    "amount": 1212088.989,
+    "numHolders": 1,
+    "usdValue": 112383.68
+  },
+  "XPT": {
+    "name": "Cryptobuyer Token",
+    "symbol": "XPT",
+    "amount": 5488774.8526593,
+    "numHolders": 1,
+    "usdValue": 6786.76
+  },
+  "DEXA": {
+    "name": "DEXA COIN",
+    "symbol": "DEXA",
+    "amount": 126365350.657385,
+    "numHolders": 1,
+    "usdValue": 60972.15
+  },
+  "GYEN": {
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "amount": 199938926.630532,
+    "numHolders": 1,
+    "usdValue": 1555941.64
+  },
+  "EXM": {
+    "name": "EXMOCoin",
+    "symbol": "EXM",
+    "amount": 1185000510,
+    "numHolders": 1,
+    "usdValue": 32434411.96
+  },
+  "DPX": {
+    "name": "Dopex Governance Token",
+    "symbol": "DPX",
+    "amount": 20,
+    "numHolders": 1,
+    "usdValue": 25865.6
+  },
+  "GM": {
+    "name": "GM",
+    "symbol": "GM",
+    "amount": 4166657768.071664,
+    "numHolders": 2,
+    "usdValue": 87583.15
+  },
+  "PLR": {
+    "name": "PILLAR",
+    "symbol": "PLR",
+    "amount": 110017,
+    "numHolders": 1,
+    "usdValue": 1400.97
+  },
+  "HEZ": {
+    "name": "Hermez Network Token",
+    "symbol": "HEZ",
+    "amount": 4202266.13863668,
+    "numHolders": 2,
+    "usdValue": 25381278.5
+  },
+  "GEN": {
+    "name": "DAOstack",
+    "symbol": "GEN",
+    "amount": 399315.9231686,
+    "numHolders": 2,
+    "usdValue": 8091.32
+  },
+  "REP": {
+    "name": "Reputation",
+    "symbol": "REP",
+    "amount": 2670.9628137299997,
+    "numHolders": 2,
+    "usdValue": 37354.87
+  },
+  "SYN": {
+    "name": "Synapse",
+    "symbol": "SYN",
+    "amount": 276797.9688025,
+    "numHolders": 2,
+    "usdValue": 968792.89
+  },
+  "BET": {
+    "name": "Dao.Casino",
+    "symbol": "BET",
+    "amount": 180000,
+    "numHolders": 1,
+    "usdValue": 5085.11
+  },
+  "LA": {
+    "name": "LAtoken",
+    "symbol": "LA",
+    "amount": 90000,
+    "numHolders": 1,
+    "usdValue": 8131.59
+  },
+  "PTOY": {
+    "name": "Patientory",
+    "symbol": "PTOY",
+    "amount": 211538,
+    "numHolders": 1,
+    "usdValue": 1529.96
+  },
+  "QRL": {
+    "name": "QRL",
+    "symbol": "QRL",
+    "amount": 1168508.0314,
+    "numHolders": 2,
+    "usdValue": 397317.12
+  },
+  "SWT": {
+    "name": "SwarmCity",
+    "symbol": "SWT",
+    "amount": 100000,
+    "numHolders": 1,
+    "usdValue": 14301
+  },
+  "ANGLE": {
+    "name": "ANGLE",
+    "symbol": "ANGLE",
+    "amount": 82178.70137818,
+    "numHolders": 1,
+    "usdValue": 11094.29
+  },
+  "AMB": {
+    "name": "Amber",
+    "symbol": "AMB",
+    "amount": 96573.3743,
+    "numHolders": 1,
+    "usdValue": 1846.48
+  },
+  "AVT": {
+    "name": "AVT",
+    "symbol": "AVT",
+    "amount": 3784.656918,
+    "numHolders": 1,
+    "usdValue": 9461.64
+  },
+  "CDT": {
+    "name": "CoinDash Token",
+    "symbol": "CDT",
+    "amount": 199464.78915524,
+    "numHolders": 1,
+    "usdValue": 24828.18
+  },
+  "LOC": {
+    "name": "LockTrip",
+    "symbol": "LOC",
+    "amount": 8326.63110211,
+    "numHolders": 1,
+    "usdValue": 22481.9
+  },
+  "MCO": {
+    "name": "MCO",
+    "symbol": "MCO",
+    "amount": 399.46234369,
+    "numHolders": 1,
+    "usdValue": 6370.28
+  },
+  "SAI": {
+    "name": "Sai Stablecoin v1.0",
+    "symbol": "SAI",
+    "amount": 4437.34209528,
+    "numHolders": 1,
+    "usdValue": 4441.78
+  },
+  "BAG": {
+    "name": "BondAppetit Governance",
+    "symbol": "BAG",
+    "amount": 5171593.0985932,
+    "numHolders": 1,
+    "usdValue": 169496.17
+  },
+  "USDap": {
+    "name": "Bond Appetite USD",
+    "symbol": "USDap",
+    "amount": 28453.05919842,
+    "numHolders": 1,
+    "usdValue": 25645.25
+  },
+  "FL": {
+    "name": "Freeliquid",
+    "symbol": "FL",
+    "amount": 496299.10533271,
+    "numHolders": 1,
+    "usdValue": 439394.38
+  },
+  "NSBT": {
+    "name": "Neutrino System Base Token",
+    "symbol": "NSBT",
+    "amount": 1823252.089701,
+    "numHolders": 1,
+    "usdValue": 88881203.33
+  },
+  "KIN": {
+    "name": "Kin",
+    "symbol": "KIN",
+    "amount": 9138430160.748066,
+    "numHolders": 2,
+    "usdValue": 309775.31999999995
+  },
+  "ART": {
+    "name": "Maecenas ART Token",
+    "symbol": "ART",
+    "amount": 576048,
+    "numHolders": 1,
+    "usdValue": 1459.94
+  },
+  "SKL": {
+    "name": "SKALE",
+    "symbol": "SKL",
+    "amount": 4046839.45876327,
+    "numHolders": 2,
+    "usdValue": 811313.7999999999
+  },
+  "G-CRE": {
+    "name": "Gluwa Creditcoin Vesting Token",
+    "symbol": "G-CRE",
+    "amount": 16000000,
+    "numHolders": 1,
+    "usdValue": 16716927.21
+  },
+  "MQL": {
+    "name": "MiraQle",
+    "symbol": "MQL",
+    "amount": 180000000,
+    "numHolders": 1,
+    "usdValue": 6539690.43
+  },
+  "RING": {
+    "name": "Darwinia Network Native Token",
+    "symbol": "RING",
+    "amount": 100000,
+    "numHolders": 1,
+    "usdValue": 1660.52
+  },
+  "ENG": {
+    "name": "Enigma",
+    "symbol": "ENG",
+    "amount": 243419.835,
+    "numHolders": 1,
+    "usdValue": 8078.57
+  },
+  "GTO": {
+    "name": "Gifto",
+    "symbol": "GTO",
+    "amount": 999999,
+    "numHolders": 1,
+    "usdValue": 43530.74
+  },
+  "GNO": {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "amount": 9061.49315775,
+    "numHolders": 4,
+    "usdValue": 3144247.51
+  },
+  "GARD": {
+    "name": "HASHGARD",
+    "symbol": "GARD",
+    "amount": 16338141.15,
+    "numHolders": 1,
+    "usdValue": 1378.29
+  },
+  "DDD": {
+    "name": "ScryDddToken",
+    "symbol": "DDD",
+    "amount": 8000000,
+    "numHolders": 1,
+    "usdValue": 17399.68
+  },
+  "EDR": {
+    "name": "Endor Protocol Token",
+    "symbol": "EDR",
+    "amount": 32359315.4636968,
+    "numHolders": 1,
+    "usdValue": 18123.48
+  },
+  "PMA": {
+    "name": "PumaPay",
+    "symbol": "PMA",
+    "amount": 787939630,
+    "numHolders": 1,
+    "usdValue": 46811.49
+  },
+  "STX": {
+    "name": "Stox",
+    "symbol": "STX",
+    "amount": 560000,
+    "numHolders": 1,
+    "usdValue": 4182.3
+  },
+  "aUNI": {
+    "name": "Aave interest bearing UNI",
+    "symbol": "aUNI",
+    "amount": 32231.10207779,
+    "numHolders": 1,
+    "usdValue": 303616.98
+  },
+  "ELEC": {
+    "name": "ElectrifyAsia",
+    "symbol": "ELEC",
+    "amount": 9370777.84614107,
+    "numHolders": 1,
+    "usdValue": 11234.72
+  },
+  "WINGS": {
+    "name": "WINGS",
+    "symbol": "WINGS",
+    "amount": 100000,
+    "numHolders": 1,
+    "usdValue": 1246.17
+  },
+  "HVN": {
+    "name": "Hiveterminal Token",
+    "symbol": "HVN",
+    "amount": 8623604.62311326,
+    "numHolders": 2,
+    "usdValue": 69133.37
+  },
+  "SAN": {
+    "name": "SAN",
+    "symbol": "SAN",
+    "amount": 883479.96714768,
+    "numHolders": 1,
+    "usdValue": 271140.89
+  },
+  "aUSDC": {
+    "name": "Aave interest bearing USDC",
+    "symbol": "aUSDC",
+    "amount": 79317367.309725,
+    "numHolders": 2,
+    "usdValue": 79195615.15
+  },
+  "ACA": {
+    "name": "Acash Coin",
+    "symbol": "ACA",
+    "amount": 4555954.35096,
+    "numHolders": 1,
+    "usdValue": 359484.66
+  },
+  "ERC20": {
+    "name": "ERC20",
+    "symbol": "ERC20",
+    "amount": 10000000020,
+    "numHolders": 1,
+    "usdValue": 1697077
+  },
+  "UNI-V2": {
+    "name": "Uniswap imBTC/ETH LP",
+    "symbol": "UNI-V2",
+    "amount": 0.005587623999999999,
+    "numHolders": 2,
+    "usdValue": 1794129.72
+  },
+  "cUSDC": {
+    "name": "Compound USD Coin",
+    "symbol": "cUSDC",
+    "amount": 32869817.409597114,
+    "numHolders": 7,
+    "usdValue": 742049.6799999999
+  },
+  "VLD": {
+    "name": "VALID",
+    "symbol": "VLD",
+    "amount": 31603482.1435379,
+    "numHolders": 1,
+    "usdValue": 343400.14
+  },
+  "EDG": {
+    "name": "Edgeless",
+    "symbol": "EDG",
+    "amount": 2420000,
+    "numHolders": 2,
+    "usdValue": 57995.73
+  },
+  "FSN": {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "amount": 6684.6134928,
+    "numHolders": 1,
+    "usdValue": 2966.65
+  },
+  "ADX": {
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "amount": 9320.884,
+    "numHolders": 1,
+    "usdValue": 3702.87
+  },
+  "BULL": {
+    "name": "3X Long Bitcoin Token",
+    "symbol": "BULL",
+    "amount": 21.88719077,
+    "numHolders": 1,
+    "usdValue": 46424.26
+  },
+  "ETHBULL": {
+    "name": "3X Long Ethereum Token",
+    "symbol": "ETHBULL",
+    "amount": 40.47658242,
+    "numHolders": 1,
+    "usdValue": 10344.2
+  },
+  "BEAR": {
+    "name": "3X Short Bitcoin Token",
+    "symbol": "BEAR",
+    "amount": 56625342.4,
+    "numHolders": 1,
+    "usdValue": 5060.61
+  },
+  "NOTE": {
+    "name": "Notional",
+    "symbol": "NOTE",
+    "amount": 233981.18108106,
+    "numHolders": 1,
+    "usdValue": 191565.07
+  },
+  "REVV": {
+    "name": "REVV",
+    "symbol": "REVV",
+    "amount": 30000,
+    "numHolders": 1,
+    "usdValue": 2529.06
+  },
+  "SHARE": {
+    "name": "Seigniorage Shares",
+    "symbol": "SHARE",
+    "amount": 521418.55458686,
+    "numHolders": 1,
+    "usdValue": 7452.85
+  },
+  "OCT": {
+    "name": "Octopus Network Token",
+    "symbol": "OCT",
+    "amount": 487706.67,
+    "numHolders": 1,
+    "usdValue": 1111971.21
+  },
+  "RLY": {
+    "name": "Rally",
+    "symbol": "RLY",
+    "amount": 6030000,
+    "numHolders": 1,
+    "usdValue": 983619.63
+  },
+  "sETH2": {
+    "name": "StakeWise Staked ETH2",
+    "symbol": "sETH2",
+    "amount": 3121.957616382,
+    "numHolders": 1,
+    "usdValue": 9605826.51
+  },
+  "0xBTC": {
+    "name": "0xBitcoin Token",
+    "symbol": "0xBTC",
+    "amount": 137869.42293475,
+    "numHolders": 1,
+    "usdValue": 132124.68
+  },
+  "cZRX": {
+    "name": "Compound 0x",
+    "symbol": "cZRX",
+    "amount": 70995588.3293653,
+    "numHolders": 1,
+    "usdValue": 1372322.71
+  },
+  "PLU": {
+    "name": "Pluton",
+    "symbol": "PLU",
+    "amount": 60000.9479861,
+    "numHolders": 1,
+    "usdValue": 457807.23
+  },
+  "TRST": {
+    "name": "Trustcoin",
+    "symbol": "TRST",
+    "amount": 850000.479621,
+    "numHolders": 1,
+    "usdValue": 2249.64
+  },
+  "aUSDT": {
+    "name": "Aave interest bearing USDT",
+    "symbol": "aUSDT",
+    "amount": 50724618.99797,
+    "numHolders": 1,
+    "usdValue": 50719292.91
+  },
+  "MULTI": {
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "amount": 38970.81256919,
+    "numHolders": 1,
+    "usdValue": 523378.01
+  },
+  "QSP": {
+    "name": "Quantstamp",
+    "symbol": "QSP",
+    "amount": 64484.482,
+    "numHolders": 2,
+    "usdValue": 4479.93
+  },
+  "XRT": {
+    "name": "Robonomics",
+    "symbol": "XRT",
+    "amount": 72573.10311578,
+    "numHolders": 2,
+    "usdValue": 722858.11
+  },
+  "SPA": {
+    "name": "Sperax",
+    "symbol": "SPA",
+    "amount": 510181,
+    "numHolders": 1,
+    "usdValue": 83848.99
+  },
+  "XCHF": {
+    "name": "CryptoFranc",
+    "symbol": "XCHF",
+    "amount": 5000,
+    "numHolders": 1,
+    "usdValue": 5250
+  },
+  "OKB": {
+    "name": "OKB",
+    "symbol": "OKB",
+    "amount": 15202.706,
+    "numHolders": 2,
+    "usdValue": 297364.93
+  },
+  "BTRST": {
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "amount": 245998.1353933,
+    "numHolders": 1,
+    "usdValue": 927412.97
+  },
+  "FOAM": {
+    "name": "FOAM Token",
+    "symbol": "FOAM",
+    "amount": 181263.94210189,
+    "numHolders": 1,
+    "usdValue": 6349.85
+  },
+  "SDOG": {
+    "name": "SDOG",
+    "symbol": "SDOG",
+    "amount": 32199238261.9885,
+    "numHolders": 1,
+    "usdValue": 5390.09
+  },
+  "SOS": {
+    "name": "SOS",
+    "symbol": "SOS",
+    "amount": 46472346192.0596,
+    "numHolders": 1,
+    "usdValue": 60878.77
+  },
+  "INST": {
     "name": "Instadapp",
     "symbol": "INST",
     "amount": 712.46877868,
     "numHolders": 1,
-    "usdValue": 1211.2
+    "usdValue": 1175.57
   },
-  {
-    "name": "SWARM",
-    "symbol": "SWM",
-    "amount": 58766.01,
+  "VERI": {
+    "name": "Veritaseum",
+    "symbol": "VERI",
+    "amount": 1500,
     "numHolders": 1,
-    "usdValue": 1030.09
+    "usdValue": 69015
+  },
+  "REEF": {
+    "name": "Reef.finance",
+    "symbol": "REEF",
+    "amount": 17270066.9005325,
+    "numHolders": 1,
+    "usdValue": 168778.81
+  },
+  "VIDT": {
+    "name": "VIDT Datalink",
+    "symbol": "VIDT",
+    "amount": 50000,
+    "numHolders": 1,
+    "usdValue": 22388.2
+  },
+  "NOW": {
+    "name": "ChangeNOW",
+    "symbol": "NOW",
+    "amount": 59844.74023987,
+    "numHolders": 1,
+    "usdValue": 6116.12
+  },
+  "CS": {
+    "name": "CREDITS",
+    "symbol": "CS",
+    "amount": 65030.75,
+    "numHolders": 1,
+    "usdValue": 1941.7
+  },
+  "GETH": {
+    "name": "Guarded Ether",
+    "symbol": "GETH",
+    "amount": 217.15771592,
+    "numHolders": 1,
+    "usdValue": 495577.8
+  },
+  "NU": {
+    "name": "NuCypher",
+    "symbol": "NU",
+    "amount": 2000000,
+    "numHolders": 1,
+    "usdValue": 784618.6
+  },
+  "VEN": {
+    "name": "VeChain",
+    "symbol": "VEN",
+    "amount": 19975.2,
+    "numHolders": 1,
+    "usdValue": 1222.88
+  },
+  "NEBO": {
+    "name": "CSP DAO",
+    "symbol": "NEBO",
+    "amount": 2501.03355109,
+    "numHolders": 1,
+    "usdValue": 9754.03
+  },
+  "EDDA": {
+    "name": "EDDA",
+    "symbol": "EDDA",
+    "amount": 100.91248096,
+    "numHolders": 1,
+    "usdValue": 42672.86
+  },
+  "BPRO": {
+    "name": "B.Protocol",
+    "symbol": "BPRO",
+    "amount": 209828.16168461,
+    "numHolders": 1,
+    "usdValue": 822526.39
+  },
+  "LUSD": {
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "amount": 19231.1728927,
+    "numHolders": 1,
+    "usdValue": 19252.05
+  },
+  "MATH": {
+    "name": "MATH Token",
+    "symbol": "MATH",
+    "amount": 45054.75,
+    "numHolders": 1,
+    "usdValue": 12144.64
+  },
+  "Auctio...": {
+    "name": "Auction",
+    "symbol": "Auctio...",
+    "amount": 317289.73663274,
+    "numHolders": 1,
+    "usdValue": 4451575
+  },
+  "DMT": {
+    "name": "DMarket",
+    "symbol": "DMT",
+    "amount": 150000,
+    "numHolders": 1,
+    "usdValue": 1521.03
+  },
+  "NGC": {
+    "name": "NAGA Coin",
+    "symbol": "NGC",
+    "amount": 214425.57227122,
+    "numHolders": 1,
+    "usdValue": 96288.66
+  },
+  "QAU": {
+    "name": "Quantum",
+    "symbol": "QAU",
+    "amount": 630000,
+    "numHolders": 1,
+    "usdValue": 28636.27
   }
-]
+}
